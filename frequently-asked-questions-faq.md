@@ -54,7 +54,7 @@ Fests are available in all countries except those subject to [U.S. embargo restr
 
 <summary>Where do I apply?</summary>
 
-Use the [Hacktoberfest application](https://organize.mlh.com/host/hacktoberfest-2026). The application will ask about your organization, proposed event, format, venue, and program. The MLH Hacktoberfest team aims to approve events within approximately one week. For an update on your application, contact [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
+Use the [Hacktoberfest application](https://hacktoberfest.com/host). The application will ask about your organization, proposed event, format, venue, and program. The MLH Hacktoberfest team aims to approve events within approximately one week. For an update on your application, contact [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
 
 </details>
 

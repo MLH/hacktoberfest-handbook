@@ -43,7 +43,7 @@ All Hacktoberfest Meet Up events are subject to approval. They receive swag, suc
 {% step %}
 ## <sub>Apply to host a Fest</sub>
 
-Fill in the details of your event and your contact information at [organize.mlh.com/host/hacktoberfest-2026](https://organize.mlh.com/host/hacktoberfest-2026). If you want to host a Hacktoberfest Meet Up, share your plans for the format of the event. All Fests are subject to approval to be listed officially on the Hacktoberfest website.
+Fill in the details of your event and your contact information at [hacktoberfest.com/host](https://hacktoberfest.com/host). If you want to host a Hacktoberfest Meet Up, share your plans for the format of the event. All Fests are subject to approval to be listed officially on the Hacktoberfest website.
 {% endstep %}
 
 {% step %}
