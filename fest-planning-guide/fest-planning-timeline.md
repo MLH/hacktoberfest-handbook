@@ -4,7 +4,7 @@
 {% step %}
 ## Four Weeks Before
 
-* Apply to host a Fest at [organize.mlh.com/host/hacktoberfest-2026](https://organize.mlh.com/host/hacktoberfest-2026) and choose `Hacktoberfest Hack Day` or `Hacktoberfest Meet Up`.
+* Apply to host a Fest at [hacktoberfest.com/host](https://hacktoberfest.com/host) and choose `Hacktoberfest Hack Day` or `Hacktoberfest Meet Up`.
 * Identify one day with a 3-to-12-hour event window.
 * Secure an in-person venue with reliable Wi-Fi, power, seating, and appropriate presentation equipment.
 * Start outreach to attendees, speakers, mentors, judges, volunteers, or collaborators.

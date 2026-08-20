@@ -15,7 +15,7 @@ See the [Fest Planning Guide](./) for the full checklist. The high-level steps a
 {% step %}
 ## Apply to host a Fest
 
-Apply at [organize.mlh.com/host/hacktoberfest-2026](https://organize.mlh.com/host/hacktoberfest-2026) and describe the format and organization or event name you want to use.
+Apply at [hacktoberfest.com/host](https://hacktoberfest.com/host) and describe the format and organization or event name you want to use.
 {% endstep %}
 
 {% step %}
