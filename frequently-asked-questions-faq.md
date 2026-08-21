@@ -108,6 +108,18 @@ Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursem
 
 <details>
 
+<summary>What is in the swag pack?</summary>
+
+Every approved Fest, in both formats, receives a Hacktoberfest event pack. Packs may include T-shirts, stickers, postcards, and other promotional materials, and some events receive surprise swag drops while supplies last. Quantities are based on the expected number of attendees rather than on registrations.
+
+We confirm the exact contents and the shipping timing for your event once it is approved, so please don't promise a specific item to your attendees before then — what ships can vary between events.
+
+Hacktoberfest Hack Day events also receive DEV Badges for every member of each winning open-source challenge team, and any Hack Days partner prize category assigned to the event. Those are fulfilled separately after the Fest and are not part of the general swag distribution.
+
+</details>
+
+<details>
+
 <summary>Can the reimbursement limit be increased for my event?</summary>
 
 No. The reimbursement rates and the 50-hacker maximum apply to every Fest, and we aren't able to raise them for individual events. Every organizer works to the same policy, and that consistency is what keeps the programme fair to everyone hosting with us.
