@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Hacktoberfest 2026](README.md)
+* [The Official Hacktoberfest Handbook](README.md)
 * [Fest Formats](fest-formats.md)
 * [Reimbursements](reimbursements.md)
 * [Swag](swag.md)
