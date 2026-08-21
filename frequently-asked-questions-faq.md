@@ -52,6 +52,18 @@ Fests are available in all countries except those subject to [U.S. embargo restr
 
 <details>
 
+<summary>Can one organization host more than one Fest?</summary>
+
+Yes, in different cities. What we can't support is several Fests from the same team in the same city or metro area, since we want to reach as many communities as possible rather than concentrating support in one place.
+
+If your organization wants to host in more than one city, have a different member of your organization apply for each individual event, and include your organization's name in the event name field on every application so we can see that they belong together.
+
+We'd also appreciate an email at [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) before you apply, so we know a group of applications is on its way and can plan for it.
+
+</details>
+
+<details>
+
 <summary>Where do I apply?</summary>
 
 Use the [Hacktoberfest application](https://hacktoberfest.com/host). The application will ask about your organization, proposed event, format, venue, and program. The MLH Hacktoberfest team aims to approve events within approximately one week. For an update on your application, contact [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
