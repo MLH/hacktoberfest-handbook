@@ -4,7 +4,7 @@ Both Fest formats receive a Hacktoberfest event pack. Every pack includes T-shir
 
 T-shirts are limited. We send a set number to every Fest rather than one per participant, so plan in advance how you want to hand them out — as prizes, for your organizing team and volunteers, or however suits your event.
 
-Pack quantities are based on the expected number of attendees and may account for the difference between registrations and actual attendance.
+Sticker and postcard quantities are based on the expected number of attendees and may account for the difference between registrations and actual attendance.
 
 {% stepper %}
 {% step %}
