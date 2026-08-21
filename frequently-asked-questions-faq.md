@@ -110,7 +110,7 @@ Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursem
 
 <summary>What is in the swag pack?</summary>
 
-Every approved Fest, in both formats, receives a Hacktoberfest event pack. Packs will include T-shirts, stickers, postcards, and other promotional materials, and some events also receive surprise swag drops while supplies last.
+Every approved Fest, in both formats, receives a Hacktoberfest event pack. Every pack includes T-shirts, stickers, and postcards, and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
 
 Quantities are based on the expected number of attendees rather than on registrations, and we confirm the exact contents and shipping timing for your event once it is approved. Surprise drops and partner items are not guaranteed, so hold off on promising those to your attendees until we have confirmed them for your event.
 
