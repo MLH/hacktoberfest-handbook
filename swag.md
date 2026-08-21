@@ -1,6 +1,6 @@
 # Swag
 
-Both Fest formats receive a Hacktoberfest event pack. Packs may include T-shirts, stickers, postcards, and other promotional materials. Some events may receive surprise swag drops while supplies last. The MLH Hacktoberfest team will confirm the contents and shipping timing for your approved event.
+Both Fest formats receive a Hacktoberfest event pack. Every pack includes T-shirts, stickers, and postcards, and may include other promotional materials. Some events also receive surprise swag drops while supplies last. The MLH Hacktoberfest team will confirm the full contents and shipping timing for your approved event.
 
 Pack quantities are based on the expected number of attendees and may account for the difference between registrations and actual attendance.
 
@@ -18,7 +18,7 @@ Pack quantities are based on the expected number of attendees and may account fo
 ## At the Fest
 
 * [ ] Decide when and how it will be distributed.
-* [ ] Do not promise a specific item to attendees unless it has been confirmed for your event.
+* [ ] Do not promise surprise swag drops or partner items to attendees unless they have been confirmed for your event.
 {% endstep %}
 {% endstepper %}
 
