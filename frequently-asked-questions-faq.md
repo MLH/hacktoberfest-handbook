@@ -132,7 +132,7 @@ If hosting alone feels like more than you have capacity for right now, consider 
 
 Unfortunately not. With Fests running all over the world throughout October, we aren't able to send team members to events in person.
 
-We're still with you in the ways that matter for running the day: the Fest Planning Guide covers the whole process end to end, and you can reach us at [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) at any point before, during, or after your event.
+We're still with you in the ways that matter for running the day: the Host Handbook (this guide) covers the whole process end to end, and you can reach us at [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) at any point before, during, or after your event.
 
 </details>
 
