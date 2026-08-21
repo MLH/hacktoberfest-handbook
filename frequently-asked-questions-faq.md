@@ -108,6 +108,36 @@ Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursem
 
 <details>
 
+<summary>Can the reimbursement limit be increased for my event?</summary>
+
+No. The reimbursement rates and the 50-hacker maximum apply to every Fest, and we aren't able to raise them for individual events. Every organizer works to the same policy, and that consistency is what keeps the programme fair to everyone hosting with us.
+
+You are welcome to run a larger event, and many organizers do — the reimbursement simply stays capped at the published amount for your country, and any costs beyond it would need to be covered by your own budget or local sponsors.
+
+</details>
+
+<details>
+
+<summary>Can I volunteer instead of hosting?</summary>
+
+We love that you want to get involved, and the most direct way to do it is to host a Fest yourself. We don't run a central volunteer list, so we aren't able to place people with events in their area.
+
+If hosting alone feels like more than you have capacity for right now, consider getting a few friends or people from your community together and hosting as a team. Sharing the organizing work is a common and very effective way to run a Fest, and a Hacktoberfest Meet Up can be as simple as a talk, a workshop, or a social gathering around open source.
+
+</details>
+
+<details>
+
+<summary>Can someone from the MLH team attend my event?</summary>
+
+Unfortunately not. With Fests running all over the world throughout October, we aren't able to send team members to events in person.
+
+We're still with you in the ways that matter for running the day: the Fest Planning Guide covers the whole process end to end, and you can reach us at [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) at any point before, during, or after your event.
+
+</details>
+
+<details>
+
 <summary>Who should I contact with questions?</summary>
 
 Feel free to reach out to us at [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) with any other questions.
