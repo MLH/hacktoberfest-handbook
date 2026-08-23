@@ -28,6 +28,16 @@ Yes. Hacktoberfest Hack Day organizers may choose to run one, several, or all of
 
 <details>
 
+<summary>Does MLH provide judges or mentors for my Fest?</summary>
+
+No. Organizers arrange their own judges and mentors, and organizers are responsible for judging the projects and selecting the winning teams for any open-source challenge or partner prize category their Fest runs.
+
+The Project Submissions and Judging guide covers what a strong judging process looks like and how to score projects against each challenge definition.
+
+</details>
+
+<details>
+
 <summary>Can I host an online or hybrid Fest?</summary>
 
 No. These Fest formats are in-person events only. Please see [Hacktoberfest.com](https://hacktoberfest.com/) to learn more about our virtual event offerings.
@@ -83,6 +93,26 @@ Apply as soon as you have a workable event idea and enough information for the M
 <summary>Can I apply with a tentative date?</summary>
 
 We ask that you have a confirmed date in mind before submitting your application, since it helps us with planning. If your plans change later and you need to postpone, that's okay — just make sure the new date is still within the October window and notify us at hacktoberfest@mlh.io as soon as you make the change.
+
+</details>
+
+<details>
+
+<summary>Is there a deadline to apply?</summary>
+
+There is no fixed deadline, but the sooner you apply the more likely we are to be able to support your event during October. Applying early gives us time to review, confirm, and get swag to you before your date.
+
+If an application reaches us too late to be included in Hacktoberfest, we may convert it to a traditional Hack Day event to be run in November instead, so it is still worth applying even if you are running late.
+
+</details>
+
+<details>
+
+<summary>How are applications reviewed, and what do you look for?</summary>
+
+Your event needs to meet the eligibility criteria set out in this handbook — among them, a one-day in-person event lasting 3 to 12 hours, held in a country not subject to U.S. embargo restrictions, with a suitable venue. The Fest Formats and Host and Venue Guide pages cover these in full.
+
+For now we review all applications on a first-come, first-served basis. If applications begin to outpace our capacity to support them, we may introduce some basic selection criteria — for example, prioritizing regions with relatively few existing Hacktoberfest events.
 
 </details>
 
