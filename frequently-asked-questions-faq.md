@@ -126,6 +126,16 @@ Every Fest must use OrganizerHQ for attendee registration and check-in. Hacktobe
 
 <details>
 
+<summary>Who counts toward my check-in total?</summary>
+
+Everyone physically at your event should register and check in through OrganizerHQ — organizers, volunteers, speakers, mentors, judges and attendees alike. They all count toward your verified check-in total, which is what your reimbursement is calculated from.
+
+Only attendees are eligible to submit projects and win prizes. If you are organizing, volunteering, speaking, mentoring or judging at the event, you can be checked in but you cannot enter or win.
+
+</details>
+
+<details>
+
 <summary>What reporting is required for every Fest?</summary>
 
 Attendee registration and check-in through OrganizerHQ and post-event photos are required for both Fest formats. Follow any additional reporting instructions supplied by the MLH Hacktoberfest team for your approved event.
@@ -137,6 +147,14 @@ Attendee registration and check-in through OrganizerHQ and post-event photos are
 <summary>Do I need a specific theme?</summary>
 
 The theme of your event should broadly match Hacktoberfest's open-source and open-weight AI theme. Organizers should feel free to customize the event and give it their own style to match the needs of their community.
+
+</details>
+
+<details>
+
+<summary>Can I use my own branding alongside Hacktoberfest's?</summary>
+
+Yes. Your organization's or community's branding is welcome alongside the approved Hacktoberfest branding.
 
 </details>
 
@@ -159,6 +177,44 @@ T-shirts are limited — we send a set number to every Fest rather than one per 
 Sticker and postcard quantities are based on your expected number of attendees rather than on registrations, and we confirm the exact contents and shipping timing for your event once it is approved. Surprise drops and partner items are not guaranteed, so hold off on promising those to your attendees until we have confirmed them for your event.
 
 Hacktoberfest Hack Day events also receive DEV Badges for every member of each winning open-source challenge team, and any Hack Days partner prize category assigned to the event. Those are fulfilled separately after the Fest and are not part of the general swag distribution.
+
+</details>
+
+<details>
+
+<summary>Will I have to pay customs or import charges on my swag?</summary>
+
+No. MLH handles or reimburses customs duties on event packs, so you shouldn't be out of pocket. If you're asked to pay a charge on delivery, keep the documentation and let us know at [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
+
+</details>
+
+<details>
+
+<summary>What expenses can be reimbursed?</summary>
+
+Food, snacks and non-alcoholic drinks for your attendees. Costs like venue hire, internet, A/V equipment, printing, accessibility support, local transport and volunteer expenses are not covered — we'd encourage you to approach your school, company or local government about providing those for free, and we're happy to help you problem-solve on a case-by-case basis if you get stuck.
+
+Payment processing fees, currency conversion charges and bank fees are not reimbursable.
+
+</details>
+
+<details>
+
+<summary>What does a receipt or invoice need to show?</summary>
+
+As much detail as the vendor can give you. From the vendor: their name, their tax or VAT/GST number, and their address. From your side: the payment method used, such as the last four digits of the card, and the total amount, inclusive of every charge incurred.
+
+Incomplete or non-itemized receipts are the most common reason a reimbursement gets held up, so it's worth checking before you leave the vendor.
+
+</details>
+
+<details>
+
+<summary>When do I submit receipts, and when will I be paid?</summary>
+
+All receipts must be submitted within 30 days of your event finishing.
+
+Payment typically takes 30 days, and that clock starts when we receive your receipts — which can be as soon as the day after your event if you submit them promptly. Submitting early is the single biggest thing within your control.
 
 </details>
 
