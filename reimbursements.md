@@ -2,6 +2,8 @@
 
 Reimbursements are available for approved `Hacktoberfest Hack Day` events under the [current Hack Days policy](https://mlh.gitbook.io/hack-days/reimbursements). `Hacktoberfest Meet Up` events do not receive reimbursement.
 
+**Note that reimbursement is available for individuals, school clubs, and community organizations only. Corporate Hosts are not eligible for reimbursement.**
+
 ## Before Spending
 
 * Confirm that your event is approved as `Hacktoberfest Hack Day`.
