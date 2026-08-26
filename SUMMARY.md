@@ -16,4 +16,5 @@
   * [Safety and Code of Conduct](fest-planning-guide/safety-and-code-of-conduct.md)
   * [Fest Opening Guide](fest-planning-guide/fest-opening-guide.md)
 * [Hack Days Partner Modules](hack-days-partner-modules.md)
+  * [Hacktoberfest Hack Day Offboarding Checklist](hacktoberfest-hack-day-offboarding-checklist.md)
 * [Frequently Asked Questions (FAQ)](frequently-asked-questions-faq.md)
