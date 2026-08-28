@@ -2,6 +2,8 @@
 
 Use this guide after your event has been approved. Every Fest is a one-day, in-person event lasting 3 to 12 hours. Attendee registration and check-in through OrganizerHQ and post-event photos are required for both formats.
 
+This handbook covers the Hacktoberfest-specific requirements and workflows. For more general guidance on planning and running an event, use the [MLH Organizer Guide](https://guide.mlh.com/).
+
 ## Confirm Your Format
 
 {% tabs %}

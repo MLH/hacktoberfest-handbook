@@ -39,7 +39,7 @@ The plan should include:
 
 At least one designated event lead must be present, reachable, and alert throughout the Fest. In an emergency, stay calm, isolate the immediate risk when it is safe to do so, and follow the directions of venue staff and emergency responders.
 
-For more detailed planning guidance, see the official MLH Hacktoberfest Hack Day Organizer Guide’s [Prepare Your Emergency Plan](https://guide.mlh.com/general-information/event-logistics/prepare-your-emergency-plan) and [Locking Down a Venue](https://guide.mlh.com/general-information/locking-down-a-venue) pages.
+For more detailed planning guidance, see the main MLH Organizer Guide's [Prepare Your Emergency Plan](https://guide.mlh.com/general-information/event-logistics/prepare-your-emergency-plan) and [Locking Down a Venue](https://guide.mlh.com/general-information/locking-down-a-venue) pages.
 
 ## Accessibility and Venue Safety
 
