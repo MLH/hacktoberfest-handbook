@@ -48,7 +48,7 @@ No. These Fest formats are in-person events only. Please see [Hacktoberfest.com]
 
 <summary>How long is a Fest?</summary>
 
-Every Fest takes place in person on a single day. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours. Meetup schedules should fit the approved program.
+Every Fest takes place in person on a single day. Hacktoberfest Hack Days must run for at least 3 hours and may not exceed 12 hours; four to six hours is ideal. Meetup schedules should fit the approved program.
 
 </details>
 
@@ -110,7 +110,7 @@ If an application reaches us too late to be included in Hacktoberfest, we may co
 
 <summary>How are applications reviewed, and what do you look for?</summary>
 
-Your event needs to meet the eligibility criteria set out in this handbook — among them, an in-person event held on a single day, in a country not subject to U.S. embargo restrictions, with a suitable venue. Hacktoberfest Hack Days must also be free to attend, should aim for four to six hours, and may last up to 12 hours. Meetup schedules should fit the approved program. The Fest Formats and Host and Venue Guide pages cover these in full.
+Your event needs to meet the eligibility criteria set out in this handbook — among them, an in-person event held on a single day, in a country not subject to U.S. embargo restrictions, with a suitable venue. Hacktoberfest Hack Days must also be free to attend and run for 3 to 12 hours; four to six hours is ideal. Meetup schedules should fit the approved program. The Fest Formats and Host and Venue Guide pages cover these in full.
 
 For now we review all applications on a first-come, first-served basis. If applications begin to outpace our capacity to support them, we may introduce some basic selection criteria — for example, prioritizing regions with relatively few existing Hacktoberfest events.
 

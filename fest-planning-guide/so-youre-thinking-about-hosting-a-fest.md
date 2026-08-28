@@ -1,6 +1,6 @@
 # So You're Thinking About Hosting a Fest
 
-Hosting a Fest is a way to bring people together in person to learn, experiment, build, and share. Every Fest takes place on a single day. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours; Meetup schedules should fit the approved program. You do not need a large team or elaborate production to create a useful event.
+Hosting a Fest is a way to bring people together in person to learn, experiment, build, and share. Every Fest takes place on a single day. Hacktoberfest Hack Days run for 3 to 12 hours, with four to six hours ideal; Meetup schedules should fit the approved program. You do not need a large team or elaborate production to create a useful event.
 
 ## Choose the Right Format
 

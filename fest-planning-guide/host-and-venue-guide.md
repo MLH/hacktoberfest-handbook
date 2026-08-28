@@ -4,7 +4,7 @@ This guide is for venue partners, school administrators, Meetup leads, and other
 
 ## Purpose and Educational Benefits
 
-Fests are short, one-day events that give participants hands-on experience with open-source and open-weight AI. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours; Meetup schedules should fit the approved program. Neither format requires a multi-day commitment.
+Fests are short, one-day events that give participants hands-on experience with open-source and open-weight AI. Hacktoberfest Hack Days run for 3 to 12 hours, with four to six hours ideal; Meetup schedules should fit the approved program. Neither format requires a multi-day commitment.
 
 Fests can support:
 

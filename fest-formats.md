@@ -11,7 +11,7 @@ Use this simple test when choosing: if participants will build and submit projec
 
 ## Hacktoberfest Hack Day
 
-Hacktoberfest Hack Day events are designed to give participants the opportunity to create something in a focused and structured environment. Four to six hours is ideal, and an approved Hack Day may last up to 12 hours. Organizers can choose to run one, several, or all of our [open-source prize challenges](fest-planning-guide/open-source-prize-categories.md). Use the [MLH Standard Hackathon Rules](https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md) as the default project-work rule unless the organizer has clearly communicated a different approach.
+Hacktoberfest Hack Day events are designed to give participants the opportunity to create something in a focused and structured environment. They run for 3 to 12 hours, although four to six hours is ideal. Organizers can choose to run one, several, or all of our [open-source prize challenges](fest-planning-guide/open-source-prize-categories.md). Use the [MLH Standard Hackathon Rules](https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md) as the default project-work rule unless the organizer has clearly communicated a different approach.
 
 Each chosen open-source challenge has one winning team. Every member of that team receives a DEV Badge on their DEV account. Organizers are responsible for judging the projects and selecting the winning team.
 
@@ -33,7 +33,7 @@ Hacktoberfest Meetup events are intentionally left flexible. Organizers might ha
 Hacktoberfest Meetups should use a schedule that fits the approved program. They do not use project submissions, judging, or prize challenges. Meetup events receive swag, but they do not receive prizes or reimbursement.
 
 {% hint style="info" %}
-* Both formats must be in-person events that take place on a single day. Hacktoberfest Hack Days must be free to attend, should aim for four to six hours, and may last up to 12 hours. Meetup schedules should fit the approved program. Participants who prefer to engage online should visit [Hacktoberfest.com](https://hacktoberfest.com/) to see the virtual challenges and content available.
+* Both formats must be in-person events that take place on a single day. Hacktoberfest Hack Days must be free to attend and run for 3 to 12 hours; four to six hours is ideal. Meetup schedules should fit the approved program. Participants who prefer to engage online should visit [Hacktoberfest.com](https://hacktoberfest.com/) to see the virtual challenges and content available.
 * Attendee registration and check-in through OrganizerHQ and post-event photos are required for both formats.
 * All events must follow their event-specific instructions supplied after approval by the MLH Hacktoberfest team for registration, check-in, reporting, reimbursement, branding, and swag.
 * Fests are available in all countries except those subject to [U.S. embargo restrictions](https://ofac.treasury.gov/sanctions-programs-and-country-information).

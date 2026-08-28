@@ -1,6 +1,6 @@
 # Fest Planning Guide
 
-Use this guide after your event has been approved. Every Fest is a one-day, in-person event. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours; Meetup schedules should fit the approved program. Attendee registration and check-in through OrganizerHQ and post-event photos are required for both formats.
+Use this guide after your event has been approved. Every Fest is a one-day, in-person event. Hacktoberfest Hack Days run for 3 to 12 hours, with four to six hours ideal; Meetup schedules should fit the approved program. Attendee registration and check-in through OrganizerHQ and post-event photos are required for both formats.
 
 This handbook covers the Hacktoberfest-specific requirements and workflows. For more general guidance on planning and running an event, use the [MLH Organizer Guide](https://guide.mlh.com/).
 
@@ -20,7 +20,7 @@ Plan talks, demonstrations, discussions, social activities, noncompetitive works
 {% step %}
 ## 🏫 Reserve an In-Person Venue
 
-* Choose a safe, accessible space that fits your approved program and expected attendance. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours.
+* Choose a safe, accessible space that fits your approved program and expected attendance. Hacktoberfest Hack Days run for 3 to 12 hours, with four to six hours ideal.
 * Confirm reliable attendee Wi-Fi, enough power outlets, seating, tables, screens or projectors, and microphones when appropriate.
 * Set aside space for OrganizerHQ check-in, swag distribution, food or beverages, speakers, and project demonstrations as needed.
 * Ask about capacity, accessibility, security, insurance, catering restrictions, loading access, setup time, and any venue-specific rules or fees.
@@ -107,7 +107,7 @@ For questions about planning your approved event, contact [hacktoberfest@mlh.io]
 
 ## ✅ Event Checklist
 
-* [ ] Confirm the approved format, official event name, and schedule. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours.
+* [ ] Confirm the approved format, official event name, and schedule. Hacktoberfest Hack Days run for 3 to 12 hours, with four to six hours ideal.
 * [ ] Secure and inspect an in-person venue.
 * [ ] Prepare the emergency plan and Code of Conduct process.
 * [ ] Publish the schedule and attendee information in OrganizerHQ.
