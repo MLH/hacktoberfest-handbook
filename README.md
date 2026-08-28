@@ -5,7 +5,7 @@ If you're reading this, congratulations on taking the first step toward hosting 
 > **Apply to host a Fest:** [**https://hacktoberfest.com/host**](https://hacktoberfest.com/host)
 
 {% hint style="info" %}
-**Event requirements:** All Fests are in-person events that take place on a single day. Hacktoberfest Hack Days must be free to attend and last 3 to 12 hours; Meetups may be shorter. Fests are available in all countries except those subject to [U.S. embargo restrictions](https://ofac.treasury.gov/sanctions-programs-and-country-information).
+**Event requirements:** All Fests are in-person events that take place on a single day. Hacktoberfest Hack Days must be free to attend, should aim for four to six hours, and may last up to 12 hours. Meetup schedules should fit the approved program. Fests are available in all countries except those subject to [U.S. embargo restrictions](https://ofac.treasury.gov/sanctions-programs-and-country-information).
 {% endhint %}
 
 {% hint style="info" %}
@@ -18,7 +18,7 @@ Fests come in two formats and you get to choose:
 
 ### Hacktoberfest Hack Day
 
-Hacktoberfest Hack Days are mini-hackathons based on Major League Hacking (MLH)'s [Hack Days program](https://mlh.gitbook.io/hack-days). These are hands-on events where participants create projects during the Fest using open-source AI tools or open-weight models for a chance to win prizes. All project-specific work must take place during the Hack Day; see [Project Submissions and Judging](project-submissions-and-judging-for-hacktoberfest-hack-day.md) for what participants may prepare beforehand.
+Hacktoberfest Hack Days are mini-hackathons based on Major League Hacking (MLH)'s [Hack Days program](https://mlh.gitbook.io/hack-days). These are hands-on events where participants create projects during the Fest using open-source AI tools or open-weight models for a chance to win prizes.
 
 For our part, MLH is supporting these events with:
 
@@ -55,7 +55,7 @@ Approved events will use the following naming convention: `Event Name - Location
 {% step %}
 ## <sub>Secure an in-person venue</sub>
 
-Your in-person event needs a safe, accessible space for its full approved program, with the equipment your program requires. Hacktoberfest Hack Days last 3 to 12 hours; Meetups may be shorter. Examples include AV equipment, seating, power, and reliable Wi-Fi.
+Your in-person event needs a safe, accessible space for its full approved program, with the equipment your program requires. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours; Meetup schedules should fit the approved program. Examples include AV equipment, seating, power, and reliable Wi-Fi.
 {% endstep %}
 
 {% step %}

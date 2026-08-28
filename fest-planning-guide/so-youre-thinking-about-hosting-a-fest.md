@@ -1,11 +1,11 @@
 # So You're Thinking About Hosting a Fest
 
-Hosting a Fest is a way to bring people together in person to learn, experiment, build, and share. Every Fest takes place on a single day. Hacktoberfest Hack Days last 3 to 12 hours; Meetups may be shorter. You do not need a large team or elaborate production to create a useful event.
+Hosting a Fest is a way to bring people together in person to learn, experiment, build, and share. Every Fest takes place on a single day. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours; Meetup schedules should fit the approved program. You do not need a large team or elaborate production to create a useful event.
 
 ## Choose the Right Format
 
 * **Hacktoberfest Hack Day:** choose this format when participants will build and submit new projects for judged challenges. It is modeled on the [Hack Days program](https://mlh.gitbook.io/hack-days), must be free to attend, and is ideally around six hours long. You receive swag, reimbursement under the current policy, and the option to run any one, several, or all of the open-source prize challenges. Each challenge has one winning team, and every member receives a DEV Badge on their DEV account. Selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category.
-* **Hacktoberfest Meetup:** a speaker, noncompetitive workshop, discussion, or other bespoke event that may be shorter than three hours. Meetups do not use project submissions, judging, or prize challenges. You receive swag, but not prizes or reimbursement.
+* **Hacktoberfest Meetup:** a speaker, noncompetitive workshop, discussion, or other bespoke event using a schedule that fits the approved program. Meetups do not use project submissions, judging, or prize challenges. You receive swag, but not prizes or reimbursement.
 
 ## Getting Started
 

@@ -27,7 +27,7 @@ Replace the placeholders with:
 * OrganizerHQ registration and check-in details
 * Any preparation attendees should complete before arriving
 
-Hacktoberfest Hack Day events should show project time, submissions, and judging and summarize the [project-work rules](../project-submissions-and-judging-for-hacktoberfest-hack-day.md#when-project-work-may-begin). Hacktoberfest Meetup events should show talks, demonstrations, discussions, social activities, noncompetitive workshops, or other sessions.
+Hacktoberfest Hack Day events should show project time, submissions, and judging and state the project-work rule being used for the event. Hacktoberfest Meetup events should show talks, demonstrations, discussions, social activities, noncompetitive workshops, or other sessions.
 {% endstep %}
 
 {% step %}

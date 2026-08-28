@@ -5,7 +5,7 @@
 ## Four Weeks Before
 
 * Apply to host a Fest at [hacktoberfest.com/host](https://hacktoberfest.com/host) and choose `Hacktoberfest Hack Day` or `Hacktoberfest Meetup`.
-* Identify one day for the event. Hacktoberfest Hack Days must last 3 to 12 hours; Meetups may be shorter.
+* Identify one day for the event. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours; Meetup schedules should fit the approved program.
 * Secure an in-person venue with reliable Wi-Fi, power, seating, and appropriate presentation equipment.
 * Start outreach to attendees, speakers, mentors, judges, volunteers, or collaborators.
 * Hacktoberfest Hack Day organizers: choose which open-source prize challenges to run.
@@ -43,7 +43,7 @@
 * Welcome attendees and explain the Code of Conduct, schedule, and event format.
 * Distribute swag and any event-provided materials.
 * Take event photos throughout the program.
-* Hacktoberfest Hack Day organizers: apply the project-work rules, collect every submission through OrganizerHQ Challenges, judge each challenge, mark every winner, make the gallery public, and then announce the results.
+* Hacktoberfest Hack Day organizers: apply the project-work rule chosen for the event, collect every submission through OrganizerHQ Challenges, judge each challenge, mark every winner, make the gallery public, and then announce the results.
 * Hacktoberfest Meetup organizers: run the approved talks, demonstrations, discussions, social activities, noncompetitive workshops, or other program.
 {% endstep %}
 

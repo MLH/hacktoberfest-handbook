@@ -4,7 +4,7 @@ This guide is for venue partners, school administrators, Meetup leads, and other
 
 ## Purpose and Educational Benefits
 
-Fests are short, one-day events that give participants hands-on experience with open-source and open-weight AI. Hacktoberfest Hack Days last 3 to 12 hours; Meetups may be shorter. Neither format requires a multi-day commitment.
+Fests are short, one-day events that give participants hands-on experience with open-source and open-weight AI. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours; Meetup schedules should fit the approved program. Neither format requires a multi-day commitment.
 
 Fests can support:
 
@@ -45,13 +45,13 @@ See [Safety and Code of Conduct](safety-and-code-of-conduct.md) for the required
 
 ## Supporting a Hacktoberfest Hack Day
 
-Hacktoberfest Hack Day events need enough uninterrupted time for participants to create and submit a project during the Fest. All project-specific work must take place during the event, with the permitted preparation explained in [Project Submissions and Judging](../project-submissions-and-judging-for-hacktoberfest-hack-day.md#when-project-work-may-begin). Hosts can help by providing workspace, technical support, mentors, judges, and a quiet area for reviewing projects or running demos.
+Hacktoberfest Hack Day events need enough uninterrupted time for participants to create and submit a project during the Fest. Hosts can help by providing workspace, technical support, mentors, judges, and a quiet area for reviewing projects or running demos.
 
 The organizer may choose one, several, or all of the open-source prize challenges. The host should help make those challenges and the OrganizerHQ submission process visible to participants.
 
 ## Supporting a Hacktoberfest Meetup
 
-Hacktoberfest Meetup events may be shorter than three hours and can include talks, panels, demonstrations, noncompetitive workshops, informal discussions, social activities, or other bespoke programming. Hosts can help with microphones, presentation screens, seating, speaker support, and transitions between sessions.
+Hacktoberfest Meetup events can include talks, panels, demonstrations, noncompetitive workshops, informal discussions, social activities, or other bespoke programming. Their schedule should fit the approved program. Hosts can help with microphones, presentation screens, seating, speaker support, and transitions between sessions.
 
 Hacktoberfest Meetup events do not use project submissions, judging, or prize challenges. They receive swag, but no prizes or reimbursement.
 

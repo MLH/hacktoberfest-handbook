@@ -2,13 +2,7 @@
 
 This page applies to approved `Hacktoberfest Hack Day` events. OrganizerHQ Challenges is mandatory for every Hacktoberfest Hack Day event and cannot be replaced by another submission platform.
 
-## When Project Work May Begin
-
-All project-specific work must be done during the Hack Day. Teams may form and brainstorm beforehand, use an idea they had before the event, and use generally available libraries, frameworks, open-source code, templates, or starter repositories.
-
-Teams may not reuse code or other project materials they created for the submission before the event. Working on a project before the Fest and then open-sourcing it solely so the team can reuse that work is not allowed. Judges should consider only the work completed during the Hack Day.
-
-These expectations mirror the [MLH Standard Hackathon Rules](https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md). Explain them during the opening and apply them consistently to every team.
+Use the [MLH Standard Hackathon Rules](https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md) as the default: project-specific work happens during the Hack Day. Organizers may use a different approach when it suits their event, but must communicate it clearly before project work begins.
 
 ## Set Up the Challenges
 
@@ -44,7 +38,7 @@ Tell participants:
 
 * The exact submission deadline
 * Which open-source challenges and assigned partner category are available
-* The project-work rule above
+* The project-work rule for this event
 * The required project information
 * The demo format and time limit
 * The judging criteria

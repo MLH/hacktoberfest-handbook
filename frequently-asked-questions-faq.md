@@ -48,7 +48,7 @@ No. These Fest formats are in-person events only. Please see [Hacktoberfest.com]
 
 <summary>How long is a Fest?</summary>
 
-Every Fest takes place in person on a single day. Hacktoberfest Hack Days last 3 to 12 hours, and we suggest aiming for around six hours. Meetups may be shorter when that suits the approved program.
+Every Fest takes place in person on a single day. Hacktoberfest Hack Days should aim for four to six hours and may last up to 12 hours. Meetup schedules should fit the approved program.
 
 </details>
 
@@ -110,7 +110,7 @@ If an application reaches us too late to be included in Hacktoberfest, we may co
 
 <summary>How are applications reviewed, and what do you look for?</summary>
 
-Your event needs to meet the eligibility criteria set out in this handbook — among them, an in-person event held on a single day, in a country not subject to U.S. embargo restrictions, with a suitable venue. Hacktoberfest Hack Days must also be free to attend and last 3 to 12 hours; Meetups may be shorter. The Fest Formats and Host and Venue Guide pages cover these in full.
+Your event needs to meet the eligibility criteria set out in this handbook — among them, an in-person event held on a single day, in a country not subject to U.S. embargo restrictions, with a suitable venue. Hacktoberfest Hack Days must also be free to attend, should aim for four to six hours, and may last up to 12 hours. Meetup schedules should fit the approved program. The Fest Formats and Host and Venue Guide pages cover these in full.
 
 For now we review all applications on a first-come, first-served basis. If applications begin to outpace our capacity to support them, we may introduce some basic selection criteria — for example, prioritizing regions with relatively few existing Hacktoberfest events.
 
@@ -128,9 +128,7 @@ Every Fest must use OrganizerHQ for attendee registration and check-in. Hacktobe
 
 <summary>Who counts toward my check-in total?</summary>
 
-Everyone physically at your event should register and check in through OrganizerHQ — organizers, volunteers, speakers, mentors, judges and attendees alike. They all count toward your verified check-in total, which is what your reimbursement is calculated from.
-
-Only attendees are eligible to submit projects and win prizes. If you are organizing, volunteering, speaking, mentoring or judging at the event, you can be checked in but you cannot enter or win.
+Reimbursement is calculated from verified in-person attendee check-ins in OrganizerHQ. Check attendees in only while they are physically present; registrations, remote participation, and advance check-ins do not count.
 
 </details>
 
@@ -170,7 +168,7 @@ Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursem
 
 <summary>What is in the swag pack?</summary>
 
-Every approved Fest, in both formats, receives a Hacktoberfest event pack. Every pack includes T-shirts, stickers, and postcards, and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
+Every approved Fest, in both formats, is eligible to receive a Hacktoberfest event pack. Availability, shipping eligibility, partner assignment, and event timing may affect whether your event receives physical materials. Event packs normally include T-shirts, stickers, and postcards and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
 
 T-shirts are limited — we send a set number to every Fest rather than one per participant, so decide in advance how you want to hand them out. Please don't tell attendees that everyone will get one.
 
