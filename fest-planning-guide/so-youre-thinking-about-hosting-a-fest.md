@@ -4,7 +4,7 @@ Hosting a Fest is a way to bring people together in person to learn, experiment,
 
 ## Choose the Right Format
 
-* **Hacktoberfest Hack Day:** choose this format when participants will build and submit new projects for judged challenges. It is modeled on the [Hack Days program](https://mlh.gitbook.io/hack-days). You receive swag, reimbursement under the current policy, and the option to run any one, several, or all of the open-source prize challenges. Each challenge has one winning team, and every member receives a Dev Badge on their DEV account. Selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category.
+* **Hacktoberfest Hack Day:** choose this format when participants will build and submit new projects for judged challenges. It is modeled on the [Hack Days program](https://mlh.gitbook.io/hack-days), must be free to attend, and is ideally around six hours long. You receive swag, reimbursement under the current policy, and the option to run any one, several, or all of the open-source prize challenges. Each challenge has one winning team, and every member receives a DEV Badge on their DEV account. Selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category.
 * **Hacktoberfest Meet Up:** a speaker, workshop, discussion, or other bespoke event. You receive swag, but not prizes or reimbursement.
 
 ## Getting Started

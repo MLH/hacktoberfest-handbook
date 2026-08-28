@@ -44,7 +44,7 @@ Update any QR codes and links so they point to your event-specific pages:
 {% step %}
 ## Add the Prize Information
 
-For a Hacktoberfest Hack Day event, include only the open-source prize challenges your event has chosen to run and identify their Dev Badge prizes. If the MLH Hacktoberfest team has also assigned a Hack Days partner prize category, include it exactly as provided. Do not add categories your event is not running.
+For a Hacktoberfest Hack Day event, include only the open-source prize challenges your event has chosen to run and identify their DEV Badge prizes. If the MLH Hacktoberfest team has also assigned a Hack Days partner prize category, include it exactly as provided. Do not add categories your event is not running.
 
 Hacktoberfest Meet Up events should not include prize language.
 {% endstep %}
@@ -60,6 +60,6 @@ Do not edit MLH-provided framing, Code of Conduct material, or embedded video se
 * [ ] Added organizer and organization information
 * [ ] Filled in the schedule with actual times
 * [ ] Updated community, registration, check-in, and submission links
-* [ ] Added the chosen open-source challenges and their Dev Badge prizes
+* [ ] Added the chosen open-source challenges and their DEV Badge prizes
 * [ ] Added only the Hack Days partner prize category assigned by the MLH Hacktoberfest team
 * [ ] Tested embedded videos and links

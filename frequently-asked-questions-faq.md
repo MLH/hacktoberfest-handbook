@@ -48,7 +48,7 @@ No. These Fest formats are in-person events only. Please see [Hacktoberfest.com]
 
 <summary>How long is a Fest?</summary>
 
-Every Fest is a one-day event lasting 3 to 12 hours.
+Every Fest takes place in person on a single day and lasts 3 to 12 hours. For Hacktoberfest Hack Days, we suggest aiming for around six hours.
 
 </details>
 
@@ -110,7 +110,7 @@ If an application reaches us too late to be included in Hacktoberfest, we may co
 
 <summary>How are applications reviewed, and what do you look for?</summary>
 
-Your event needs to meet the eligibility criteria set out in this handbook — among them, a one-day in-person event lasting 3 to 12 hours, held in a country not subject to U.S. embargo restrictions, with a suitable venue. The Fest Formats and Host and Venue Guide pages cover these in full.
+Your event needs to meet the eligibility criteria set out in this handbook — among them, an in-person event held on a single day for 3 to 12 hours, in a country not subject to U.S. embargo restrictions, with a suitable venue. Hacktoberfest Hack Days must also be free to attend. The Fest Formats and Host and Venue Guide pages cover these in full.
 
 For now we review all applications on a first-come, first-served basis. If applications begin to outpace our capacity to support them, we may introduce some basic selection criteria — for example, prioritizing regions with relatively few existing Hacktoberfest events.
 
@@ -120,7 +120,7 @@ For now we review all applications on a first-come, first-served basis. If appli
 
 <summary>How do registration and check-in work?</summary>
 
-Every Fest must use OrganizerHQ for attendee registration and check-in. Hacktoberfest Hack Day events must also use OrganizerHQ Challenges for all project submissions; another submission page cannot replace it. Follow the OrganizerHQ instructions supplied with your approval and see the [OrganizerHQ Tutorial](/broken/pages/e1ef8f7f30a94873d42fbd51745bfde456d2186f) for more details.
+Every Fest must use OrganizerHQ for attendee registration and check-in. Hacktoberfest Hack Day events must also use OrganizerHQ Challenges for all project submissions; another submission page cannot replace it. Follow the OrganizerHQ instructions supplied with your approval and see the [OrganizerHQ Tutorial](organizerhq-tutorial.md) for more details.
 
 </details>
 
@@ -192,9 +192,7 @@ No. MLH handles or reimburses customs duties on event packs, so you shouldn't be
 
 <summary>What expenses can be reimbursed?</summary>
 
-Food, snacks and non-alcoholic drinks for your attendees. Costs like venue hire, internet, A/V equipment, printing, accessibility support, local transport and volunteer expenses are not covered — we'd encourage you to approach your school, company or local government about providing those for free, and we're happy to help you problem-solve on a case-by-case basis if you get stuck.
-
-Payment processing fees, currency conversion charges and bank fees are not reimbursable.
+Food, snacks, and non-alcoholic beverages are always eligible. Other event expenses may be eligible with advance approval. Review [Reimbursements](reimbursements.md) and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) before making an uncertain purchase.
 
 </details>
 
@@ -202,9 +200,7 @@ Payment processing fees, currency conversion charges and bank fees are not reimb
 
 <summary>What does a receipt or invoice need to show?</summary>
 
-As much detail as the vendor can give you. From the vendor: their name, their tax or VAT/GST number, and their address. From your side: the payment method used, such as the last four digits of the card, and the total amount, inclusive of every charge incurred.
-
-Incomplete or non-itemized receipts are the most common reason a reimbursement gets held up, so it's worth checking before you leave the vendor.
+Keep a complete, itemized receipt for every purchase you intend to claim. Follow the receipt requirements in your Ramp invitation and event onboarding materials, and review [Reimbursements](reimbursements.md) before spending.
 
 </details>
 
@@ -212,9 +208,7 @@ Incomplete or non-itemized receipts are the most common reason a reimbursement g
 
 <summary>When do I submit receipts, and when will I be paid?</summary>
 
-All receipts must be submitted within 30 days of your event finishing.
-
-Payment typically takes 30 days, and that clock starts when we receive your receipts — which can be as soon as the day after your event if you submit them promptly. Submitting early is the single biggest thing within your control.
+Submit receipts by the deadline in your event approval or onboarding materials. Payment typically takes 30 days from submission, although it can take a few weeks more or less depending on individual circumstances. If a Ramp invitation or deadline is missing, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
 
 </details>
 
@@ -222,9 +216,7 @@ Payment typically takes 30 days, and that clock starts when we receive your rece
 
 <summary>Can the reimbursement limit be increased for my event?</summary>
 
-No. The reimbursement rates and the 50-hacker maximum apply to every Fest, and we aren't able to raise them for individual events. Every organizer works to the same policy, and that consistency is what keeps the programme fair to everyone hosting with us.
-
-You are welcome to run a larger event, and many organizers do — the reimbursement simply stays capped at the published amount for your country, and any costs beyond it would need to be covered by your own budget or local sponsors.
+The published country rate and 50-hacker cap apply unless your event approval lists a different rate. If your approval differs from the handbook, follow the approval and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) so the guide can be corrected. You may run a larger event, but reimbursement remains capped at the applicable maximum and cannot exceed approved, itemized spending.
 
 </details>
 

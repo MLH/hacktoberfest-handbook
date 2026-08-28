@@ -18,7 +18,7 @@
 * If food will be provided, finalize the vendor and review the reimbursement policy before spending.
 * Set up the required OrganizerHQ event page, registration, and check-in workflow.
 * Add a copy-ready event description, exact location, start and end times, organizer contact email, food information, accessibility information, and attendee preparation instructions.
-* Draft attendee communications and begin sending reminders.
+* Confirm whether attendees need any venue-specific or event-specific information beyond MLH's standard emails.
 * Hacktoberfest Hack Day organizers: draft any custom project prompts (optional), configure OrganizerHQ Challenges, and prepare the judging plan.
 * Hacktoberfest Meet Up organizers: confirm speakers, facilitators, session materials, and the run of show.
 {% endstep %}
@@ -26,7 +26,7 @@
 {% step %}
 ## One Week Before
 
-* Send an attendee reminder with the venue, schedule, and arrival instructions.
+* Send an event-details message if attendees still need venue, schedule, or arrival information that is not already on the event page.
 * Finalize the expected headcount and food or beverage order.
 * Receive Hacktoberfest swag and prepare it for distribution.
 * Complete the emergency plan and review the MLH Code of Conduct with volunteers.

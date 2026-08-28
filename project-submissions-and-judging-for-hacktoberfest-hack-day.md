@@ -12,11 +12,13 @@ Participants must register for the event through OrganizerHQ and check in before
 
 Participants should be prepared to provide:
 
+* A link to the project (open-source challenges require a public GitHub repository)
 * Project name and description
-* Public GitHub repository
+* Demo URL, if available
 * Technologies and models used
-* A short attestation that the submission is available under an open-source license
-* A short explanation of how the project meets one or more of the event’s prize challenges
+* Every challenge the team is entering
+
+The submission form does not include a separate license-attestation field, so participants should make the project's open-source license clear in the repository.
 
 See [Open-Source Prize Categories](fest-planning-guide/open-source-prize-categories.md) for the organizer-selectable challenge definitions. Selected Hacktoberfest Hack Day events may also receive an assigned [Hack Days partner prize category](fest-planning-guide/hack-days-partner-prize-categories.md).
 

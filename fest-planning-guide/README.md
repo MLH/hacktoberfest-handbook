@@ -6,7 +6,7 @@ Use this guide after your event has been approved. Every Fest is a one-day, in-p
 
 {% tabs %}
 {% tab title="Hacktoberfest Hack Day" %}
-Plan a hands-on event where participants create and submit new projects for judged challenges. Work may not begin before the Fest. Hacktoberfest Hack Day events receive swag and reimbursement under the current policy. Organizers may run any or all open-source prize challenges, and selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category.
+Plan a free, hands-on event where participants create and submit new projects for judged challenges. Work may not begin before the Fest. Hacktoberfest Hack Day events receive swag and reimbursement under the current policy. Organizers may run any or all open-source prize challenges, and selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category.
 {% endtab %}
 
 {% tab title="Hacktoberfest Meet Up" %}
@@ -28,7 +28,7 @@ Plan talks, demonstrations, discussions, social activities, noncompetitive works
 {% step %}
 ## 🍕 Plan Food and Beverages
 
-Food and beverages are optional. Hacktoberfest Hack Day organizers who plan to request reimbursement should review the [current Hack Days reimbursement policy](../reimbursements.md) before spending. Hacktoberfest Meet Up expenses are not reimbursable.
+Food and beverages are optional. Hacktoberfest Hack Day organizers who plan to request reimbursement should review the [current reimbursement policy](../reimbursements.md) before spending. Hacktoberfest Meet Up expenses are not reimbursable.
 
 * Notify food vendors 3 to 7 days before the event to reduce last-minute issues.
 * Order for a realistic attendance estimate rather than total registrations.
@@ -58,13 +58,13 @@ See the [OrganizerHQ Tutorial](../organizerhq-tutorial.md) for more details.
 {% step %}
 ## 📦 Receive and Distribute Swag
 
-Both formats receive Hacktoberfest swag. Confirm the delivery address, identify someone who can receive the shipment, plan how it will reach the venue, and decide how it will be distributed. Keep swag distribution separate from prize fulfillment.
+Both formats receive Hacktoberfest swag. Confirm the delivery address, identify someone who can receive the shipment, plan how it will reach the venue, and decide how it will be distributed. Keep swag distribution separate from prize delivery.
 {% endstep %}
 
 {% step %}
 ## 📧 Communicate With Attendees
 
-Send reminders approximately three weeks before, one week before, the day before, and the day of the Fest when the timeline allows. Include the venue, schedule, accessibility information, arrival instructions, food or beverage details, and any software or preparation needed. Use the approved event name for consistency across events.
+Keep your OrganizerHQ event page up to date. Send event-details messages when helpful for information not already covered by MLH's standard emails, such as the exact venue, schedule, accessibility information, arrival instructions, food or beverage details, and any software or preparation needed. Use the approved event name for consistency across events.
 {% endstep %}
 {% endstepper %}
 

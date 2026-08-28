@@ -5,7 +5,7 @@ If you're reading this, congratulations on taking the first step toward hosting 
 > **Apply to host a Fest:** [**https://hacktoberfest.com/host**](https://hacktoberfest.com/host)
 
 {% hint style="info" %}
-**Event requirements:** All Fests are one-day, in-person events lasting 3 to 12 hours. Fests are available in all countries except those subject to [U.S. embargo restrictions](https://ofac.treasury.gov/sanctions-programs-and-country-information).
+**Event requirements:** All Fests are in-person events that take place on a single day and last 3 to 12 hours. Hacktoberfest Hack Days must be free to attend. Fests are available in all countries except those subject to [U.S. embargo restrictions](https://ofac.treasury.gov/sanctions-programs-and-country-information).
 {% endhint %}
 
 {% hint style="info" %}
@@ -23,8 +23,8 @@ Hacktoberfest Hack Days are mini-hackathons based on Major League Hacking (MLH)'
 For our part, MLH is supporting these events with:
 
 * Hacktoberfest swag
-* [Reimbursements under the program policy](https://mlh.gitbook.io/hack-days/reimbursements)
-* The option to run any one, several, or all of our [open-source prize challenges,](fest-planning-guide/open-source-prize-categories.md) with a winner's DEV Badge for every member of each winning team and a participation badge for all attendees.
+* [Reimbursements under the program policy](reimbursements.md)
+* The option to run any one, several, or all of our [open-source prize challenges](fest-planning-guide/open-source-prize-categories.md), with a winner's DEV Badge for every member of each winning team and a participation badge for all attendees.
 * A possible additional [Hack Days partner prize category](fest-planning-guide/hack-days-partner-prize-categories.md) assigned to selected Hacktoberfest Hack Day events
 
 Hacktoberfest Hack Day hosts can run any one, several, or all of the curated open-source prize challenges.
@@ -55,13 +55,13 @@ Approved events will use the following naming convention: `Event Name - Location
 {% step %}
 ## <sub>Secure an in-person venue</sub>
 
-Your one-day event needs a safe, accessible space for 3 to 12 hours with the equipment your program requires. Examples include AV equipment, seating, power, and reliable Wi-Fi.
+Your in-person event needs a safe, accessible space for its full 3-to-12-hour program, with the equipment your program requires. Examples include AV equipment, seating, power, and reliable Wi-Fi.
 {% endstep %}
 
 {% step %}
 ## <sub>Plan the experience</sub>
 
-Hacktoberfest Hack Day hosts can follow our [Fest Planning Guide,](fest-planning-guide/) which closely outlines the requirements and best practices for a Hacktoberfest Hack Day. Hacktoberfest Meet Up hosts plan their own talks, workshops, discussions, or other programming.
+Hacktoberfest Hack Day hosts can follow our [Fest Planning Guide](fest-planning-guide/), which outlines the requirements and best practices for a Hacktoberfest Hack Day. Hacktoberfest Meet Up hosts plan their own talks, workshops, discussions, or other programming.
 {% endstep %}
 
 {% step %}
@@ -79,6 +79,6 @@ Every Fest must use OrganizerHQ for attendee registration and check-in, and ever
 
 ## <sub>For More Information</sub>
 
-Start with the [Fest Formats ](fest-formats.md)page to learn about the events. Then, use the [Fest Planning Guide,](fest-planning-guide/) which is written to walk hosts through the process of hosting.
+Start with [Fest Formats](fest-formats.md) to learn about the two event types. Then use the [Fest Planning Guide](fest-planning-guide/) to work through the hosting process.
 
 For questions about applying or hosting, contact [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).

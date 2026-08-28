@@ -1,18 +1,52 @@
 # Reimbursements
 
-Reimbursements are available for approved `Hacktoberfest Hack Day` events under the [current Hack Days policy](https://mlh.gitbook.io/hack-days/reimbursements). `Hacktoberfest Meet Up` events do not receive reimbursement.
+*Last reviewed: August 2026.*
 
-**Note that reimbursement is available for individuals, school clubs, and community organizations only. Corporate Hosts are not eligible for reimbursement.**
+Reimbursement is available only for approved `Hacktoberfest Hack Day` events hosted by individuals, school clubs, or community organizations. Corporate hosts and `Hacktoberfest Meet Up` events are not eligible.
 
-## Before Spending
+## Before You Request Reimbursement
 
-* Confirm that your event is approved as `Hacktoberfest Hack Day`.
-* Review the [current policy supplied by the MLH Hacktoberfest team](https://mlh.gitbook.io/hack-days/reimbursements).
-* Ask before making an expense that is not clearly covered.
-* Keep complete, itemized receipts for every expense you intend to submit.
+Before requesting reimbursement, make sure you can confirm all of the following:
 
-For reimbursement questions, contact [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
+* Your event was approved as a `Hacktoberfest Hack Day`, was free to attend, and took place entirely in person.
+* Each attendee was checked in through OrganizerHQ while physically present at the venue. Registrations, online participation, and advance or remote check-ins do not count.
+* You completed the required event closeout steps, including the event summary and photos.
+* Every requested expense is eligible, supported by a complete itemized receipt, and submitted through Ramp by the deadline in your approval or onboarding materials.
 
-## After the Event
+{% hint style="warning" %}
+Your maximum reimbursement is the lower of your approved, itemized spending or your country's per-hacker rate multiplied by verified in-person OrganizerHQ check-ins, capped at 50 hackers. MLH cannot reimburse more than you spent.
+{% endhint %}
 
-Submit receipts and any required event information through the workflow supplied by the MLH Hacktoberfest team. Reimbursement is not available for `Hacktoberfest Meet Up` events.
+## Submit Your Receipts
+
+Keep a full itemized receipt for every purchase. MLH will invite you to submit receipts through Ramp, the finance platform used for Hack Day reimbursements.
+
+Submit receipts by the deadline in your event approval or onboarding materials. If a Ramp invitation or deadline is missing, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) rather than waiting until the reimbursement window may have closed.
+
+We offer different reimbursement rates depending on the country in which the Hacktoberfest Hack Day is organized; use the rate finder below. We use purchasing power parity to calculate a comparable amount of funding in each country. We list reimbursement amounts in USD here. Your reimbursement may be in either USD or your local currency, depending on your banking details and preferences in Ramp. The typical timeline is 30 days from submitting receipts, although it can take a few weeks more or less depending on individual circumstances.
+
+## Eligible Expenses
+
+Food, snacks, and non-alcoholic beverages are always eligible. Other event expenses may be eligible with advance approval. Email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) before making an uncertain purchase. Excessive expenses, especially prizes or swag purchased independently, may be rejected.
+
+## How the Maximum Is Calculated
+
+MLH cannot reimburse more than the eligible amount actually spent. The maximum is the lower of:
+
+* Your total approved, itemized event expenses
+* The country-specific per-hacker rate multiplied by the number of verified OrganizerHQ check-ins, capped at 50 hackers
+
+For example, a US event with 30 verified check-ins has a maximum allowance of 210 USD. If it has 165 USD in approved, itemized expenses, the maximum reimbursement is 165 USD.
+
+## Find Your Reimbursement Rate
+
+Search by country and enter the expected number of verified OrganizerHQ check-ins. The calculator shows the country allowance; the final reimbursement is still limited to approved, itemized spending.
+
+```hack-day-reimbursement-rate
+```
+
+Rates were last updated in August 2026. If your event approval lists a different rate, follow your approval and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
+
+{% hint style="info" %}
+If your country is not listed, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) before your event.
+{% endhint %}
