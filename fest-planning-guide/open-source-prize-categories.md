@@ -2,7 +2,7 @@
 
 `Hacktoberfest Hack Day` organizers may choose to run any one, several, or all of the open-source prize challenges below. The categories can be chosen by organizers.
 
-Work on submitted projects may not begin before the Fest. Every submitted project must be created during the one-day event.
+All project-specific work must take place during the Hack Day. Participants may form teams, brainstorm, and use generally available building blocks beforehand as explained in [Project Submissions and Judging](../project-submissions-and-judging-for-hacktoberfest-hack-day.md).
 
 Each chosen challenge has one winning team. Every member of that team receives a DEV Badge on their DEV account.
 
@@ -34,7 +34,7 @@ The winning project demonstrates the best use case for an open-weight SLM.
 
 **Requirements:**
 
-* An open-weight model with fewer than 10 billion parameters is a core component of the project.
+* An open-weight model with 10 billion parameters or fewer is a core component of the project.
 * The project is published in a public GitHub repository.
 * The project uses an open-source license.
 

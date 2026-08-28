@@ -23,6 +23,7 @@ Reimbursement depends on these steps being completed, so do not leave them until
 * [ ] A winner is marked under any [Hack Days partner prize category](hack-days-partner-modules.md) assigned to the event.
 * [ ] Each winner meets the repository, license, model, harness, or partner-technology requirements for its challenge.
 * [ ] No partner category was awarded that the MLH Hacktoberfest team did not assign.
+* [ ] The project gallery was checked and made public through **Announce Winners** before results were announced in the room.
 
 See [Project Submissions and Judging](project-submissions-and-judging-for-hacktoberfest-hack-day.md) for the full workflow.
 {% endstep %}
@@ -51,7 +52,7 @@ See [Photography and Promotion](fest-planning-guide/photography-and-promotion.md
 Reimbursement is the **lower** of your approved itemized spending and your country's per-hacker rate multiplied by verified in-person OrganizerHQ check-ins, capped at 50 hackers. MLH cannot reimburse more than you spent.
 {% endhint %}
 
-See [Reimbursements](reimbursements.md) for the current policy. `Hacktoberfest Meet Up` events do not receive reimbursement.
+See [Reimbursements](reimbursements.md) for the current policy. `Hacktoberfest Meetup` events do not receive reimbursement.
 {% endstep %}
 
 {% step %}
@@ -72,6 +73,7 @@ See [Swag](swag.md) for what an event pack contains.
 * [ ] Every attendee check-in is complete in OrganizerHQ.
 * [ ] Every presenting team submitted a project.
 * [ ] Every winner is confirmed in OrganizerHQ.
+* [ ] The public project gallery is visible and shows the correct winner labels.
 * [ ] Photos follow the event's consent requirements.
 * [ ] The event summary has been submitted.
 * [ ] Itemized receipts have been submitted.

@@ -10,11 +10,11 @@ A Fest is an in-person Hacktoberfest event. For more details, [please click here
 
 <details>
 
-<summary>What is the difference between Hacktoberfest Hack Day and Hacktoberfest Meet Up?</summary>
+<summary>What is the difference between Hacktoberfest Hack Day and Hacktoberfest Meetup?</summary>
 
 Hacktoberfest Hack Day events are hands-on events modeled on the [MLH Hack Days program](https://mlh.gitbook.io/hack-days). If participants will build and submit projects for judged challenges, choose Hacktoberfest Hack Day. Approved Hacktoberfest Hack Day events receive swag and reimbursement under the current policy and can run any or all of the open-source prize challenges in this guide.
 
-Hacktoberfest Meet Up events are more flexible in format. If your program will consist of talks, demonstrations, discussions, social activities, or noncompetitive workshops, choose Hacktoberfest Meet Up. Hacktoberfest Meet Up events receive swag, but do not receive prizes or reimbursement.
+Hacktoberfest Meetup events are more flexible in format. If your program will consist of talks, demonstrations, discussions, social activities, or noncompetitive workshops, choose Hacktoberfest Meetup. Meetups do not use project submissions, judging, or prize challenges. They receive swag, but do not receive prizes or reimbursement.
 
 </details>
 
@@ -48,7 +48,7 @@ No. These Fest formats are in-person events only. Please see [Hacktoberfest.com]
 
 <summary>How long is a Fest?</summary>
 
-Every Fest takes place in person on a single day and lasts 3 to 12 hours. For Hacktoberfest Hack Days, we suggest aiming for around six hours.
+Every Fest takes place in person on a single day. Hacktoberfest Hack Days last 3 to 12 hours, and we suggest aiming for around six hours. Meetups may be shorter when that suits the approved program.
 
 </details>
 
@@ -110,7 +110,7 @@ If an application reaches us too late to be included in Hacktoberfest, we may co
 
 <summary>How are applications reviewed, and what do you look for?</summary>
 
-Your event needs to meet the eligibility criteria set out in this handbook — among them, an in-person event held on a single day for 3 to 12 hours, in a country not subject to U.S. embargo restrictions, with a suitable venue. Hacktoberfest Hack Days must also be free to attend. The Fest Formats and Host and Venue Guide pages cover these in full.
+Your event needs to meet the eligibility criteria set out in this handbook — among them, an in-person event held on a single day, in a country not subject to U.S. embargo restrictions, with a suitable venue. Hacktoberfest Hack Days must also be free to attend and last 3 to 12 hours; Meetups may be shorter. The Fest Formats and Host and Venue Guide pages cover these in full.
 
 For now we review all applications on a first-come, first-served basis. If applications begin to outpace our capacity to support them, we may introduce some basic selection criteria — for example, prioritizing regions with relatively few existing Hacktoberfest events.
 
@@ -162,7 +162,7 @@ Yes. Your organization's or community's branding is welcome alongside the approv
 
 <summary>What support does each format receive?</summary>
 
-Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursement under our current policy limits and may run any or all of the open-source prize challenges. Selected Hacktoberfest Hack Day events may receive an assigned Hack Days partner prize category. Hacktoberfest Meet Up events receive swag, but do not receive reimbursement or prize categories.
+Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursement under our current policy limits and may run any or all of the open-source prize challenges. Selected Hacktoberfest Hack Day events may receive an assigned Hack Days partner prize category. Hacktoberfest Meetup events receive swag, but do not receive reimbursement or prize categories.
 
 </details>
 
@@ -226,7 +226,7 @@ The published country rate and 50-hacker cap apply unless your event approval li
 
 We love that you want to get involved, and the most direct way to do it is to host a Fest yourself. We don't run a central volunteer list, so we aren't able to place people with events in their area.
 
-If hosting alone feels like more than you have capacity for right now, consider getting a few friends or people from your community together and hosting as a team. Sharing the organizing work is a common and very effective way to run a Fest, and a Hacktoberfest Meet Up can be as simple as a talk, a workshop, or a social gathering around open source.
+If hosting alone feels like more than you have capacity for right now, consider getting a few friends or people from your community together and hosting as a team. Sharing the organizing work is a common and very effective way to run a Fest, and a Hacktoberfest Meetup can be as simple as a talk, a workshop, or a social gathering around open source.
 
 </details>
 

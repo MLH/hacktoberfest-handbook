@@ -2,16 +2,16 @@
 
 Every approved Hacktoberfest event uses one of two Fest formats, which you get to choose as the organizer at the time of your application. Depending on the format you choose, the level of support from MLH and your responsibilities as the event organizer will vary.
 
-Use this simple test when choosing: if participants will build and submit projects, go with a Hack Day. If the program will consist of talks, demonstrations, discussions, social activities, or noncompetitive workshops, choose a Meet Up.
+Use this simple test when choosing: if participants will build and submit projects, go with a Hack Day. If the program will consist of talks, demonstrations, discussions, social activities, or noncompetitive workshops, choose a Meetup.
 
 | Format                 | Event Name                                             | What it is                                                                                                                                                             | MLH Support                                                                                                                                                                                                                                                                                    |
 | ---------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hacktoberfest Hack Day | `{Organization or Event Name} - {Location} [Hack Day]` | A hands-on event modeled on the [Hack Days program](https://mlh.gitbook.io/hack-days)                                                                                  | Swag, [reimbursement under the current policy](reimbursements.md), and the option to run any or all open-source prize challenges with DEV Badges as prizes; selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category |
-| Hacktoberfest Meet Up  | `{Organization or Event Name} - {Location} [Meet Up]`  | A custom event hosted by the organizer, which could involve an invited speaker giving a seminar, an informal meet up among community members, or another bespoke event | Swag only, such as T-shirts, stickers, and postcards; prizes and reimbursement are not provided                                                                                                                                                                                                |
+| Hacktoberfest Meetup | `{Organization or Event Name} - {Location} [Meetup]` | A custom event hosted by the organizer, which could involve an invited speaker giving a seminar, an informal meetup among community members, or another bespoke event | Swag only, such as T-shirts, stickers, and postcards; prizes and reimbursement are not provided |
 
 ## Hacktoberfest Hack Day
 
-Hacktoberfest Hack Day events are designed to give participants the opportunity to create something in a focused and structured environment. We suggest aiming for around a six-hour event, although approved Fests may last 3 to 12 hours. Work on submitted projects may not begin before the Fest; all submitted work must be completed during the event. Organizers can choose to run one, several, or all of our [open-source prize challenges](fest-planning-guide/open-source-prize-categories.md).
+Hacktoberfest Hack Day events are designed to give participants the opportunity to create something in a focused and structured environment. We suggest aiming for around a six-hour event, although approved Hack Days may last 3 to 12 hours. All project-specific work must take place during the event; participants may form teams, brainstorm, and use generally available building blocks beforehand as explained in [Project Submissions and Judging](project-submissions-and-judging-for-hacktoberfest-hack-day.md). Organizers can choose to run one, several, or all of our [open-source prize challenges](fest-planning-guide/open-source-prize-categories.md).
 
 Each chosen open-source challenge has one winning team. Every member of that team receives a DEV Badge on their DEV account. Organizers are responsible for judging the projects and selecting the winning team.
 
@@ -26,14 +26,14 @@ Some Hacktoberfest Hack Day events will also receive a Hack Days partner prize c
 
 For either prize class, organizers are responsible for judging projects against the applicable criteria and selecting the winning teams. All winning projects must incorporate open-source or open-weight AI in some way.
 
-## Hacktoberfest Meet Up
+## Hacktoberfest Meetup
 
-Hacktoberfest Meet Up events are intentionally left flexible. Organizers might have a community member or group in mind to give a talk or series of talks. They may also choose their own workshop format if it is significantly different from Hacktoberfest Hack Day. Informal discussions and meetups are also welcome and encouraged as long as they support the Hacktoberfest mission of open-source and open-weight AI education.
+Hacktoberfest Meetup events are intentionally left flexible. Organizers might have a community member or group in mind to give a talk or series of talks. They may also choose their own workshop format if it is significantly different from Hacktoberfest Hack Day. Informal discussions and meetups are also welcome and encouraged as long as they support the Hacktoberfest mission of open-source and open-weight AI education.
 
-Hacktoberfest Meet Up events receive swag, but they do not receive prizes or reimbursement.
+Hacktoberfest Meetups may be shorter than three hours when that suits the approved program. They do not use project submissions, judging, or prize challenges. Meetup events receive swag, but they do not receive prizes or reimbursement.
 
 {% hint style="info" %}
-* Both formats must be in-person events that take place on a single day and last 3 to 12 hours. Hacktoberfest Hack Days must be free to attend. Participants who prefer to engage online should visit [Hacktoberfest.com](https://hacktoberfest.com/) to see the virtual challenges and content available.
+* Both formats must be in-person events that take place on a single day. Hacktoberfest Hack Days must be free to attend and last 3 to 12 hours; Meetups may be shorter. Participants who prefer to engage online should visit [Hacktoberfest.com](https://hacktoberfest.com/) to see the virtual challenges and content available.
 * Attendee registration and check-in through OrganizerHQ and post-event photos are required for both formats.
 * All events must follow their event-specific instructions supplied after approval by the MLH Hacktoberfest team for registration, check-in, reporting, reimbursement, branding, and swag.
 * Fests are available in all countries except those subject to [U.S. embargo restrictions](https://ofac.treasury.gov/sanctions-programs-and-country-information).

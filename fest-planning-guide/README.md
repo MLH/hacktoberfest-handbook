@@ -1,6 +1,6 @@
 # Fest Planning Guide
 
-Use this guide after your event has been approved. Every Fest is a one-day, in-person event lasting 3 to 12 hours. Attendee registration and check-in through OrganizerHQ and post-event photos are required for both formats.
+Use this guide after your event has been approved. Every Fest is a one-day, in-person event. Hacktoberfest Hack Days last 3 to 12 hours; Meetups may be shorter. Attendee registration and check-in through OrganizerHQ and post-event photos are required for both formats.
 
 This handbook covers the Hacktoberfest-specific requirements and workflows. For more general guidance on planning and running an event, use the [MLH Organizer Guide](https://guide.mlh.com/).
 
@@ -8,11 +8,11 @@ This handbook covers the Hacktoberfest-specific requirements and workflows. For 
 
 {% tabs %}
 {% tab title="Hacktoberfest Hack Day" %}
-Plan a free, hands-on event where participants create and submit new projects for judged challenges. Work may not begin before the Fest. Hacktoberfest Hack Day events receive swag and reimbursement under the current policy. Organizers may run any or all open-source prize challenges, and selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category.
+Plan a free, hands-on event where participants create and submit projects for judged challenges. All project-specific work must take place during the Hack Day; the [submission guide](../project-submissions-and-judging-for-hacktoberfest-hack-day.md) explains what participants may prepare beforehand. Hacktoberfest Hack Day events receive swag and reimbursement under the current policy. Organizers may run any or all open-source prize challenges, and selected Hacktoberfest Hack Day events may also receive an assigned Hack Days partner prize category.
 {% endtab %}
 
-{% tab title="Hacktoberfest Meet Up" %}
-Plan talks, demonstrations, discussions, social activities, noncompetitive workshops, or other bespoke programming. Hacktoberfest Meet Up events receive swag only; they do not receive prizes or reimbursement.
+{% tab title="Hacktoberfest Meetup" %}
+Plan talks, demonstrations, discussions, social activities, noncompetitive workshops, or other bespoke programming. Meetups may be shorter than three hours and do not use project submissions, judging, or prize challenges. Hacktoberfest Meetup events receive swag only; they do not receive prizes or reimbursement.
 {% endtab %}
 {% endtabs %}
 
@@ -20,7 +20,7 @@ Plan talks, demonstrations, discussions, social activities, noncompetitive works
 {% step %}
 ## 🏫 Reserve an In-Person Venue
 
-* Choose a safe, accessible space that fits your program and expected attendance for the full 3-to-12-hour event.
+* Choose a safe, accessible space that fits your approved program and expected attendance. Hacktoberfest Hack Days last 3 to 12 hours; Meetups may be shorter.
 * Confirm reliable attendee Wi-Fi, enough power outlets, seating, tables, screens or projectors, and microphones when appropriate.
 * Set aside space for OrganizerHQ check-in, swag distribution, food or beverages, speakers, and project demonstrations as needed.
 * Ask about capacity, accessibility, security, insurance, catering restrictions, loading access, setup time, and any venue-specific rules or fees.
@@ -30,7 +30,7 @@ Plan talks, demonstrations, discussions, social activities, noncompetitive works
 {% step %}
 ## 🍕 Plan Food and Beverages
 
-Food and beverages are optional. Hacktoberfest Hack Day organizers who plan to request reimbursement should review the [current reimbursement policy](../reimbursements.md) before spending. Hacktoberfest Meet Up expenses are not reimbursable.
+Food and beverages are optional. Hacktoberfest Hack Day organizers who plan to request reimbursement should review the [current reimbursement policy](../reimbursements.md) before spending. Hacktoberfest Meetup expenses are not reimbursable.
 
 * Notify food vendors 3 to 7 days before the event to reduce last-minute issues.
 * Order for a realistic attendance estimate rather than total registrations.
@@ -74,10 +74,10 @@ Keep your OrganizerHQ event page up to date. Send event-details messages when he
 
 {% tabs %}
 {% tab title="Hacktoberfest Hack Day" %}
-> Join \[Organization] for \[Approved Event Name], a one-day, in-person Hacktoberfest event where participants will create a new project using open-source or open-weight AI. Work begins at the Fest, and participants will build, submit through OrganizerHQ Challenges, and compete in \[Chosen Open-Source Prize Challenges]. Bring your laptop and your curiosity!
+> Join \[Organization] for \[Approved Event Name], a one-day, in-person Hacktoberfest event where participants will create a project using open-source or open-weight AI. Project work happens during the Fest, and participants will build, submit through OrganizerHQ Challenges, and compete in \[Chosen Open-Source Prize Challenges]. Bring your laptop and your curiosity!
 {% endtab %}
 
-{% tab title="Hacktoberfest Meet Up" %}
+{% tab title="Hacktoberfest Meetup" %}
 > Join \[Organization] for \[Approved Event Name], a one-day, in-person Hacktoberfest gathering focused on open-source and open-weight AI. The program will include \[Talks, Demonstrations, Discussions, Social Activities, etc.]. Come meet other members of the community, exchange ideas, and explore how open technology is changing the way we build.
 {% endtab %}
 {% endtabs %}
@@ -94,20 +94,20 @@ Every organizer must:
 
 Hacktoberfest Hack Day organizers must also:
 
-* Ensure submitted work begins and is completed during the Fest.
+* Apply the project-work rules in [Project Submissions and Judging](../project-submissions-and-judging-for-hacktoberfest-hack-day.md).
 * Collect every project through [OrganizerHQ Challenges.](../project-submissions-and-judging-for-hacktoberfest-hack-day.md)
 * Judge the chosen open-source challenges and any assigned Hack Days partner prize category.
-* Record one winning team for each challenge and category.
+* Mark one winning team for each challenge and category in OrganizerHQ, then make the project gallery public before announcing the results.
 
 ## After the Fest
 
-All organizers must provide event photos and any event summary, feedback, or attendance information requested by the MLH Hacktoberfest team. Hacktoberfest Hack Day organizers must also report their winning teams and submit complete, itemized receipts through the supplied reimbursement workflow.
+All organizers must provide event photos and any event summary, feedback, or attendance information requested by the MLH Hacktoberfest team. Hacktoberfest Hack Day organizers must also confirm their winners in OrganizerHQ, publish the project gallery, and submit complete, itemized receipts through the supplied reimbursement workflow.
 
 For questions about planning your approved event, contact [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
 
 ## ✅ Event Checklist
 
-* [ ] Confirm the approved format, official event name, and 3-to-12-hour schedule.
+* [ ] Confirm the approved format, official event name, and schedule. Hacktoberfest Hack Days must last 3 to 12 hours; Meetups may be shorter.
 * [ ] Secure and inspect an in-person venue.
 * [ ] Prepare the emergency plan and Code of Conduct process.
 * [ ] Publish the schedule and attendee information in OrganizerHQ.

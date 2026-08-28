@@ -28,6 +28,6 @@ Sticker and postcard quantities are based on the expected number of attendees an
 ## Support by Format
 
 * **Hacktoberfest Hack Day:** swag, reimbursement under the current policy, DEV Badges for every member of each winning open-source challenge team, and any Hack Days partner prize category assigned to the event.
-* **Hacktoberfest Meet Up:** swag only. Hacktoberfest Meet Up events do not receive prizes or reimbursement.
+* **Hacktoberfest Meetup:** swag only. Hacktoberfest Meetup events do not receive prizes or reimbursement.
 
 DEV Badges and other prizes are fulfilled separately after the event; they are not part of the general swag distribution process.

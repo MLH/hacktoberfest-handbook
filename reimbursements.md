@@ -2,7 +2,7 @@
 
 *Last reviewed: August 2026.*
 
-Reimbursement is available only for approved `Hacktoberfest Hack Day` events hosted by individuals, school clubs, or community organizations. Corporate hosts and `Hacktoberfest Meet Up` events are not eligible.
+Reimbursement is available only for approved `Hacktoberfest Hack Day` events hosted by individuals, school clubs, or community organizations. Corporate hosts and `Hacktoberfest Meetup` events are not eligible.
 
 ## Before You Request Reimbursement
 

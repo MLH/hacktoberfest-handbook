@@ -27,7 +27,7 @@ Replace the placeholders with:
 * OrganizerHQ registration and check-in details
 * Any preparation attendees should complete before arriving
 
-Hacktoberfest Hack Day events should show project time, submissions, and judging and remind participants that submitted work must begin at the Fest. Hacktoberfest Meet Up events should show talks, demonstrations, discussions, social activities, noncompetitive workshops, or other sessions.
+Hacktoberfest Hack Day events should show project time, submissions, and judging and summarize the [project-work rules](../project-submissions-and-judging-for-hacktoberfest-hack-day.md#when-project-work-may-begin). Hacktoberfest Meetup events should show talks, demonstrations, discussions, social activities, noncompetitive workshops, or other sessions.
 {% endstep %}
 
 {% step %}
@@ -46,7 +46,7 @@ Update any QR codes and links so they point to your event-specific pages:
 
 For a Hacktoberfest Hack Day event, include only the open-source prize challenges your event has chosen to run and identify their DEV Badge prizes. If the MLH Hacktoberfest team has also assigned a Hack Days partner prize category, include it exactly as provided. Do not add categories your event is not running.
 
-Hacktoberfest Meet Up events should not include prize language.
+Hacktoberfest Meetups do not use project submissions, judging, or prize challenges, so omit prize language.
 {% endstep %}
 {% endstepper %}
 

@@ -1,6 +1,6 @@
 # Safety and Code of Conduct
 
-Every Fest must provide a safe, welcoming, and accessible environment. These requirements apply to both Hacktoberfest Hack Day and Hacktoberfest Meet Up.
+Every Fest must provide a safe, welcoming, and accessible environment. These requirements apply to both Hacktoberfest Hack Day and Hacktoberfest Meetup.
 
 ## MLH Code of Conduct
 
