@@ -144,6 +144,14 @@ Attendee registration and check-in through OrganizerHQ and post-event photos are
 
 <details>
 
+<summary>Can you send funds in advance of the event?</summary>
+
+Unfortunately no, we can only reimburse actual expenses after the event has taken place and in accordance with our reimbursement policies.
+
+</details>
+
+<details>
+
 <summary>Do I need a specific theme?</summary>
 
 The theme of your event should broadly match Hacktoberfest's open-source and open-weight AI theme. Organizers should feel free to customize the event and give it their own style to match the needs of their community.
@@ -168,9 +176,11 @@ Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursem
 
 <details>
 
-<summary>What is in the swag pack?</summary>
+<summary>What is in the swag pack and when does it arrive?</summary>
 
 Every approved Fest, in both formats, receives a Hacktoberfest event pack. Every pack includes T-shirts, stickers, and postcards, and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
+
+We aim to send swag packs before the event start date, but in some rare cases you may  receive the pack after the event due to shipping delays.
 
 T-shirts are limited — we send a set number to every Fest rather than one per participant, so decide in advance how you want to hand them out. Please don't tell attendees that everyone will get one.
 
