@@ -1,9 +1,9 @@
-# Hack Days Partner Modules
+# Hacktoberfest Partner Challenges
 
-The terms “Hack Days prize category” and “partner prize category” refer to one assigned class: **Hack Days partner prize categories**.&#x20;
+{% hint style="info" %}
+**Coming soon:** Full partner challenge copy, participant resources, opening slides, and prize details will be published here after partner approval.
+{% endhint %}
 
-The MLH Hacktoberfest team decides which Hack Days partner prize category, if any, is available for a specific Hacktoberfest Hack Day event. Organizers may choose any or all of the open-source prize challenges, but must not promise a partner or add a partner category unless the MLH Hacktoberfest team has assigned it.
+Selected Hacktoberfest Hack Day events may receive one additional partner prize category. The MLH Hacktoberfest team assigns the category and adds it to OrganizerHQ automatically; hosts do not need to create it.
 
-The exact Hack Days partner modules will be released soon.
-
-When a category is assigned, follow its current module and any event-specific instructions from the MLH Hacktoberfest team.
+Until these pages are published, follow the partner information in your event onboarding. Every Hack Day also runs the separate [Best Open-Source AI Project challenge](fest-planning-guide/open-source-prize-categories.md).

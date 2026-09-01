@@ -4,12 +4,12 @@ Every Fest must provide a safe, welcoming, and accessible environment. These req
 
 ## MLH Code of Conduct
 
-Every organizer, volunteer, speaker, mentor, judge, participant, sponsor representative, and guest must follow the [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md).
+Everyone involved in the Fest must follow the [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md).
 
 Before the event:
 
 * Link the Code of Conduct from the OrganizerHQ event page and attendee communications.
-* Identify the organizer or venue representative attendees can approach with a concern.
+* Identify the host or venue representative attendees can approach with a concern.
 * Make sure volunteers know how to respond to a report and how to contact venue security or emergency services.
 * Review the current MLH incident-reporting procedures and contact information in the Code of Conduct.
 
@@ -17,7 +17,7 @@ At the event, explain that harassment and abuse are not tolerated and that the p
 
 ## Emergency Plan
 
-Create a written emergency plan and make it available to organizers and volunteers. Keep a physical or offline copy at the venue in case internet access is unavailable.
+Create a written emergency plan and make it available to hosts and volunteers. Keep a physical or offline copy at the venue in case internet access is unavailable.
 
 Plan for scenarios that are relevant to your venue, including:
 
@@ -33,7 +33,7 @@ The plan should include:
 * The venue address and evacuation routes
 * Local emergency and non-emergency contact numbers
 * Venue security and the on-site venue contact
-* Lead organizer and backup organizer contact information
+* Lead host and backup host contact information
 * Instructions for communicating with attendees during an incident
 * A plan for pausing, relocating, or ending the event if necessary
 

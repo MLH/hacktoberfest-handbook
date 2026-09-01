@@ -21,7 +21,7 @@ Your maximum reimbursement is the lower of your approved, itemized spending or y
 
 Keep a full itemized receipt for every purchase. MLH will invite you to submit receipts through Ramp, the finance platform used for Hack Day reimbursements.
 
-Submit receipts by the deadline in your event approval or onboarding materials. If a Ramp invitation or deadline is missing, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) rather than waiting until the reimbursement window may have closed.
+Submit receipts by the deadline in your event approval or onboarding materials. If a Ramp invitation or deadline is missing, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) promptly so you do not miss the reimbursement window.
 
 We offer different reimbursement rates depending on the country in which the Hacktoberfest Hack Day is organized; use the rate finder below. We use purchasing power parity to calculate a comparable amount of funding in each country. We list reimbursement amounts in USD here. Your reimbursement may be in either USD or your local currency, depending on your banking details and preferences in Ramp. The typical timeline is 30 days from submitting receipts, although it can take a few weeks more or less depending on individual circumstances.
 
@@ -42,7 +42,7 @@ For example, a US event with 30 verified check-ins has a maximum allowance of 21
 
 Search by country and enter the expected number of verified OrganizerHQ check-ins. The calculator shows the country allowance; the final reimbursement is still limited to approved, itemized spending.
 
-```hack-day-reimbursement-rate
+```hacktoberfest-reimbursement-rate
 ```
 
 Rates were last updated in August 2026. If your event approval lists a different rate, follow your approval and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).

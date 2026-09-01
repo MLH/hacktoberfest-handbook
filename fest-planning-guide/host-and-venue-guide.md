@@ -1,82 +1,56 @@
-# Host and Venue Guide
+---
+description: Secure an in-person venue and agree on the practical details needed to run your Fest.
+---
 
-This guide is for venue partners, school administrators, Meetup leads, and others helping an organizer run an in-person Fest.
+# Securing and Preparing Your Venue
 
-## Purpose and Educational Benefits
+Use this page to secure a suitable venue and agree on the practical details with your school, company, community organization, or venue contact. You can also copy the relevant summary below when requesting approval.
 
-Fests are short, one-day events that give participants hands-on experience with open-source and open-weight AI. Hacktoberfest Hack Days run for 3 to 12 hours, with four to six hours ideal; Meetup schedules should fit the approved program. Neither format requires a multi-day commitment.
+## Copyable Venue Request
 
-Fests can support:
+Replace the bracketed text before sending.
 
-* **Learning through collaboration:** participants exchange ideas, solve problems, and learn from one another.
-* **Skill development:** participants practice communication, project planning, technical experimentation, and presentation skills.
-* **Community building:** local groups, schools, clubs, companies, and community organizations create new connections around open technology.
+{% tabs %}
+{% tab title="Hacktoberfest Hack Day" %}
+> We are requesting approval to host **[Event Name]**, a free, one-day, in-person Hacktoberfest Hack Day for approximately **[number] attendees** on **[date]**, from **[start time] to [end time]**. Participants will work in teams to create open-source AI projects, submit them through MLH's OrganizerHQ platform, and share their work at the event. The program follows the [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md). We are looking for a space with reliable Wi-Fi, power, seating, and **[A/V or other needs]**, with access from **[setup time] to [breakdown time]**. **[Host name]** will manage attendees, the program, check-in, and event closeout; we need the venue's help with building access, facilities, and local safety requirements.
+{% endtab %}
 
-## What Hosts and Administrators Should Know
+{% tab title="Hacktoberfest Meetup" %}
+> We are requesting approval to host **[Event Name]**, a one-day, in-person Hacktoberfest Meetup for approximately **[number] attendees** on **[date]**, from **[start time] to [end time]**. The program will include **[talks, workshops, demonstrations, discussions, or other activities]** focused on open-source AI. It is a community event rather than a project competition. The program follows the [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md). We are looking for a space with **[Wi-Fi, seating, A/V, or other needs]**, with access from **[setup time] to [breakdown time]**. **[Host name]** will manage attendees, the program, check-in, and event closeout; we need the venue's help with building access, facilities, and local safety requirements.
+{% endtab %}
+{% endtabs %}
 
-* **Program format:** Hacktoberfest Hack Day events involve project creation, submissions, and judging. Hacktoberfest Meetup events involve talks, demonstrations, discussions, social activities, noncompetitive workshops, or another approved program.
-* **Required platform:** all attendee registrations and check-ins must use OrganizerHQ.
-* **Required documentation:** organizers must take and submit event photos for both formats.
-* **Support:** both formats receive swag. Hacktoberfest Hack Day events also receive reimbursement under the current policy and may run prize challenges. Hacktoberfest Meetup events do not receive reimbursement or prizes.
-* **Safety:** organizers, volunteers, speakers, mentors, judges, and attendees must follow the [MLH Code of Conduct](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md) and the venue’s safety and accessibility requirements.
+## Before Confirming the Venue
 
-## Venue Checklist
+Agree on:
 
-Before confirming the venue, verify:
+* The room, expected attendance, and maximum capacity
+* The event date and published start and end times
+* Setup, delivery, attendee-entry, and breakdown times
+* Who can open and close the building and who will be reachable during the event
+* Any rental, security, insurance, cleaning, food, or equipment costs
+* Rules for visitors, minors, photography, catering, deliveries, and building access
 
-* Enough capacity for the expected attendance
-* Reliable attendee Wi-Fi
-* Enough power outlets for laptops, phones, and program equipment
-* Seating, tables, screens or projectors, microphones, and appropriate A/V support
-* Space for OrganizerHQ check-in, swag distribution, food, speakers, project work, and demonstrations as needed
-* Accessible entrances, rooms, restrooms, and routes through the event space
-* Clearly marked exits, emergency procedures, and an on-site venue contact
-* Security for attendees and equipment
-* Catering, cleanup, insurance, loading, delivery, and building-access rules
-* Setup and breakdown time outside the published program
+Whenever possible, use a venue that does not charge a rental fee. Hacktoberfest Meetups do not receive reimbursement. For a Hacktoberfest Hack Day, get advance approval from MLH before committing to a venue charge or another expense not clearly covered by the [reimbursement policy](../reimbursements.md).
 
-Whenever possible, use a venue that does not require a rental fee. Hacktoberfest Hack Day reimbursement is intended for approved event expenses under the current policy, and Hacktoberfest Meetup events do not receive reimbursement.
+## Check the Space
 
-## Emergency and Compliance Planning
+Make sure the venue has:
 
-The organizer and venue should prepare for fire or evacuation, power loss, medical emergencies, theft or security concerns, severe weather, attendee misconduct, and other locally relevant scenarios. Keep venue security, emergency services, the on-site venue contact, and lead organizer contact information available to volunteers.
+* Enough tables, chairs, and usable space for the planned format
+* Reliable attendee Wi-Fi and enough power outlets, with safe cable routing
+* Any screen, projector, microphone, or audio equipment your program needs
+* A clear space near the entrance for OrganizerHQ check-in
+* Accessible entrances, event rooms, restrooms, and routes through the venue
+* Clearly marked exits and a known evacuation or emergency procedure
+* A suitable place for food, swag, and deliveries when applicable
 
-See [Safety and Code of Conduct](safety-and-code-of-conduct.md) for the required planning steps.
+Hack Days also need comfortable project workspace and a simple area for short demos or project review. Meetup layouts should match the planned talks, workshops, discussions, or social activities.
 
-## Supporting a Hacktoberfest Hack Day
+Test the Wi-Fi, A/V equipment, OrganizerHQ links, and any QR codes using the devices you will use on event day.
 
-Hacktoberfest Hack Day events need enough uninterrupted time for participants to create and submit a project during the Fest. Hosts can help by providing workspace, technical support, mentors, judges, and a quiet area for reviewing projects or running demos.
+## Safety and Accessibility
 
-The organizer may choose one, several, or all of the open-source prize challenges. The host should help make those challenges and the OrganizerHQ submission process visible to participants.
+Before the event, confirm the venue address, evacuation routes, local emergency contacts, the on-site venue contact, and the lead host. Make it clear how attendees can request an accommodation or report a concern.
 
-## Supporting a Hacktoberfest Meetup
-
-Hacktoberfest Meetup events can include talks, panels, demonstrations, noncompetitive workshops, informal discussions, social activities, or other bespoke programming. Their schedule should fit the approved program. Hosts can help with microphones, presentation screens, seating, speaker support, and transitions between sessions.
-
-Hacktoberfest Meetup events do not use project submissions, judging, or prize challenges. They receive swag, but no prizes or reimbursement.
-
-## How Hosts Can Help
-
-{% stepper %}
-{% step %}
-## <sub>Approve and reserve a safe, accessible space.</sub>
-{% endstep %}
-
-{% step %}
-## <sub>Confirm that Wi-Fi, power, A/V, seating, and event-day staffing are ready.</sub>
-{% endstep %}
-
-{% step %}
-## <sub>Connect the organizer with speakers, mentors, judges, volunteers, or community partners when useful.</sub>
-{% endstep %}
-
-{% step %}
-## <sub>Help promote the Fest to the local community.</sub>
-{% endstep %}
-
-{% step %}
-## <sub>Support the OrganizerHQ check-in, required event photography, and post-event wrap-up.</sub>
-{% endstep %}
-{% endstepper %}
-
-A prepared venue and a supportive local partner make it easier for organizers to deliver a welcoming, useful Fest. Coordinate early with the organizer and follow the event-specific instructions supplied by the MLH Hacktoberfest team.
+Use [Safety and Code of Conduct](safety-and-code-of-conduct.md) for the required event plan and the main MLH Organizer Guide for more detailed advice on [locking down a venue](https://guide.mlh.com/general-information/locking-down-a-venue).

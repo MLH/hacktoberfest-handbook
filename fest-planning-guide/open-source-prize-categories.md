@@ -1,53 +1,42 @@
-# Open-Source Prize Categories
+# Open-Source AI Prize Challenge
 
-`Hacktoberfest Hack Day` organizers may choose to run any one, several, or all of the open-source prize challenges below. The categories can be chosen by organizers.
+Every `Hacktoberfest Hack Day` runs this challenge. MLH adds it to your OrganizerHQ event automatically. Include it in your project prompts, submission instructions, opening slides, and winner-selection plan.
 
-Each chosen challenge has one winning team. Every member of that team receives a DEV Badge on their DEV account.
+## Best Open-Source AI Project
 
-Every chosen category should be visible in the event's project prompts, submission instructions, opening materials, and judging plan.
+Build an original project that uses open-source or open-weight AI as an important part of how it works. Teams could create an agent skill, build with an open-weight large or small language model, or build or adapt an open-source model harness. These are examples within one challenge, and teams may combine them.
 
-## Best Agent Skill
+### Requirements
 
-The winning project develops the most useful original agent skill.
+* Open-source or open-weight AI must be an important part of the project.
+* The project must be published in a public GitHub repository and use an open-source license.
+* An agent skill must comply with the Agent Skill Open Standard.
+* A model-harness entry must include an original implementation or meaningful changes to an existing open-source harness.
 
-**Requirements:**
+## What These Terms Mean
 
-* The skill complies with the Agent Skill Open Standard.
-* The project is published in a public GitHub repository.
-* The project uses an open-source license.
+* **Open source:** the project's source code is public and carries a license that allows others to use, modify, and share it. Common choices include [MIT](https://opensource.org/license/mit), [Apache-2.0](https://opensource.org/license/apache-2.0), and [GPL-3.0](https://opensource.org/license/gpl-3.0). The [OSI license list](https://opensource.org/licenses) includes more options.
+* **Open-weight model:** the trained model weights are available to download or run under the model provider's terms. Open-weight does not automatically mean that every part of a model is open source, so teams should name the model and link its license or terms in the README.
+* **Small and large language models:** for this challenge, a small language model has 10 billion parameters or fewer, while a large language model has more than 10 billion parameters. Google's [Gemma model overview](https://ai.google.dev/gemma/docs/core) includes examples on both sides of that boundary.
+* **Agent skill:** a reusable set of instructions and supporting files that follows the [Agent Skills open standard](https://agentskills.io/).
+* **Model harness:** the software around a model that manages prompts, tools, memory, context, and actions. Teams may build one from scratch or make meaningful improvements to an existing open-source project such as OpenCode, Hermes Agent, OpenClaw, or Pi.
 
-## Best Use of an Open-Weight Large Language Model (LLM)
+## What a Strong Entry Looks Like
 
-The winning project demonstrates the best use case for an open-weight LLM.
+A strong project:
 
-**Requirements:**
+* Uses open-source or open-weight AI as an important part of how the project works
+* Solves a clear problem or creates a useful experience
+* Shows substantial technical work completed by the team
+* Makes its source, license, model, and key dependencies easy to verify
+* Has a working demonstration and a clear explanation of what the team built
 
-* An open-weight model with more than 10 billion parameters is a core component of the project.
-* The project is published in a public GitHub repository.
-* The project uses an open-source license.
+Use this guidance alongside [Project Submissions and Winner Selection](../project-submissions-and-judging-for-hacktoberfest-hack-day.md). Ask teams to show the relevant code and explain the contribution of the AI technology in plain language.
 
-## Best Use of an Open-Weight Small Language Model (SLM)
+## Prize
 
-The winning project demonstrates the best use case for an open-weight SLM.
-
-**Requirements:**
-
-* An open-weight model with 10 billion parameters or fewer is a core component of the project.
-* The project is published in a public GitHub repository.
-* The project uses an open-source license.
-
-## Best Use of an Open-Source Model Harness
-
-The winning project demonstrates the best implementation of an open-source model harness as a key component of the project.
-
-**Requirements:**
-
-* The harness is distributed under an open-source license.
-* The project is published in a public GitHub repository.
-* The project uses an open-source license.
-
-Examples of model harnesses include OpenCode, Hermes Agent, OpenClaw, and Pi.
+The challenge has one winning team. Every member receives a DEV Badge on their DEV account. Depending on availability and your event's onboarding instructions, MLH may also provide MLH+DEV branded swag bags for the winning team. These may include a branded bag, notebook, and other items.
 
 ## Hack Days Partner Prize Categories
 
-Hack Days partner prize categories are separate from the open-source prize challenges organizers choose to run. The [currently active categories](hack-days-partner-prize-categories.md) may be assigned to selected Hacktoberfest Hack Day events by the MLH Hacktoberfest team (organizers may indicate their preferences at the application stage).
+Hack Days partner prize categories are separate from the Best Open-Source AI Project challenge. They may be assigned to selected Hacktoberfest Hack Day events by the MLH Hacktoberfest team. You may indicate a preference when applying, but an assigned category appears automatically in OrganizerHQ. [Partner challenge details are coming soon](../hack-days-partner-modules.md).

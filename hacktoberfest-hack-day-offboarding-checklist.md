@@ -1,6 +1,6 @@
 # Hacktoberfest Hack Day Offboarding Checklist
 
-Work through this checklist to close out a `Hacktoberfest Hack Day`. Assign one organizer to own offboarding **before** the Fest begins — that person collects the photos, confirms the OrganizerHQ records, and submits everything MLH needs.
+Work through this checklist to close out a `Hacktoberfest Hack Day`. Before the Fest begins, assign one host to collect the photos, confirm the OrganizerHQ records, and submit everything MLH needs.
 
 Reimbursement depends on these steps being completed, so do not leave them until the deadline approaches.
 
@@ -9,7 +9,7 @@ Reimbursement depends on these steps being completed, so do not leave them until
 ## Before the Fest Ends
 
 * [ ] Every attendee is checked in through OrganizerHQ while physically present at the venue.
-* [ ] Registrations, online participation, and advance or remote check-ins have **not** been counted as check-ins.
+* [ ] Registrations, online participation, and advance or remote check-ins have not been counted as check-ins.
 * [ ] Every presenting team has submitted a project.
 * [ ] Itemized receipts have been collected and passed to whoever is submitting them.
 * [ ] Photos have been taken in line with the venue's consent, privacy, and guardian-permission requirements.
@@ -18,14 +18,14 @@ Reimbursement depends on these steps being completed, so do not leave them until
 {% step %}
 ## Record Your Winners
 
-* [ ] Each winning project is recorded in OrganizerHQ **before** the result is announced in the room.
-* [ ] A winner is marked under each open-source challenge the Fest ran.
+* [ ] Each winning project is recorded in OrganizerHQ before the result is announced in the room.
+* [ ] A winner is marked under the [Best Open-Source AI Project challenge](fest-planning-guide/open-source-prize-categories.md).
 * [ ] A winner is marked under any [Hack Days partner prize category](hack-days-partner-modules.md) assigned to the event.
 * [ ] Each winner meets the repository, license, model, harness, or partner-technology requirements for its challenge.
-* [ ] No partner category was awarded that the MLH Hacktoberfest team did not assign.
+* [ ] Winners were recorded only for the Best Open-Source AI Project challenge, any partner category assigned by MLH, and any optional local challenge run by the host.
 * [ ] The project gallery was checked and made public through **Announce Winners** before results were announced in the room.
 
-See [Project Submissions and Judging](project-submissions-and-judging-for-hacktoberfest-hack-day.md) for the full workflow.
+See [Project Submissions and Winner Selection](project-submissions-and-judging-for-hacktoberfest-hack-day.md) for the full workflow.
 {% endstep %}
 
 {% step %}
@@ -35,7 +35,7 @@ See [Project Submissions and Judging](project-submissions-and-judging-for-hackto
 * [ ] No photo shows anyone who declined to be photographed.
 * [ ] No photo exposes screens, badges, or documents containing personal information.
 * [ ] Attendee names are not published alongside images without permission.
-* [ ] The event summary has been submitted, reporting checked-in attendance, submitted projects, confirmed winners, a short description of what happened, and organizer feedback.
+* [ ] The event summary has been submitted, reporting checked-in attendance, submitted projects, confirmed winners, a short description of what happened, and host feedback.
 
 See [Photography and Promotion](fest-planning-guide/photography-and-promotion.md) for guidance on what to capture and what to avoid.
 {% endstep %}
@@ -49,7 +49,7 @@ See [Photography and Promotion](fest-planning-guide/photography-and-promotion.md
 * [ ] Nothing has been claimed that was purchased independently without advance approval.
 
 {% hint style="warning" %}
-Reimbursement is the **lower** of your approved itemized spending and your country's per-hacker rate multiplied by verified in-person OrganizerHQ check-ins, capped at 50 hackers. MLH cannot reimburse more than you spent.
+Reimbursement is the lower of your approved itemized spending and your country's per-hacker rate multiplied by verified in-person OrganizerHQ check-ins, capped at 50 hackers. MLH cannot reimburse more than you spent.
 {% endhint %}
 
 See [Reimbursements](reimbursements.md) for the current policy. `Hacktoberfest Meetup` events do not receive reimbursement.
@@ -59,10 +59,10 @@ See [Reimbursements](reimbursements.md) for the current policy. `Hacktoberfest M
 ## Materials and Prizes
 
 * [ ] Event materials were distributed according to the onboarding instructions.
-* [ ] No partner's materials or prizes were substituted for another category.
-* [ ] Only the prize format confirmed for the event was described to attendees — some winners receive digital gift cards after the event rather than physical prizes.
-* [ ] Undistributed materials are stored securely and handled per the onboarding instructions.
-* [ ] No replacement prizes were purchased independently in the expectation of reimbursement.
+* [ ] The event's confirmed prize information, including any MLH+DEV branded prize swag bags, was communicated accurately to attendees.
+* [ ] Attendees were told that prize formats may vary by availability and that some winners may receive digital gift cards instead of physical prizes.
+* [ ] Undistributed materials are stored securely and handled according to the onboarding instructions.
+* [ ] Any host-funded prizes were kept separate from MLH-provided prizes and reimbursement claims unless approved in advance.
 
 See [Swag](swag.md) for what an event pack contains.
 {% endstep %}
@@ -79,7 +79,7 @@ See [Swag](swag.md) for what an event pack contains.
 * [ ] Itemized receipts have been submitted.
 
 {% hint style="info" %}
-If you cannot find a form, a deadline, or a Ramp invitation, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) immediately after your Fest rather than waiting — the reimbursement window may close.
+If you cannot find a form, a deadline, or a Ramp invitation, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) immediately after your Fest. The reimbursement window may close while you wait.
 {% endhint %}
 
 Direct winner questions about delayed or missing prizes to [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) with the event name, the category, and the recorded winning project.

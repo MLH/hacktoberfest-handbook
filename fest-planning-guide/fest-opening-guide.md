@@ -1,18 +1,18 @@
 # Fest Opening Guide
 
 {% hint style="warning" %}
-**Fest slide decks are not ready yet.** The MLH Hacktoberfest team will post the decks and their format-specific instructions on this page when they are available.
+**The Fest slide deck is not ready yet.** The MLH Hacktoberfest team will post the deck and its format-specific instructions on this page when it is available.
 {% endhint %}
 
-## How to Use the Opening or Welcome Materials
+## How to Use the Opening Slide Deck
 
-Once the materials are posted, use the opening or welcome materials supplied for your Fest. Replace the event-specific placeholders while keeping the approved Hacktoberfest framing, Code of Conduct, and format-specific instructions intact.
+Once the deck is posted, make a copy for your Fest. Edit only the host-controlled slides; the slide numbers may change, so use the slide titles and placeholders to identify what to update.
 
 {% stepper %}
 {% step %}
 ## Make a Copy
 
-Open the event-specific deck or materials provided by the MLH Hacktoberfest team and go to **File → Make a copy**. All of your edits should happen in your copy; do not edit the original.
+Open the event-specific slide deck provided by the MLH Hacktoberfest team and go to **File → Make a copy**. Make your edits in the copy.
 {% endstep %}
 
 {% step %}
@@ -22,12 +22,12 @@ Replace the placeholders with:
 
 * The approved event name
 * The venue, city, date, and schedule
-* The organizer and organization information
+* Your host and organization information
 * The community or communication channel
 * OrganizerHQ registration and check-in details
 * Any preparation attendees should complete before arriving
 
-Hacktoberfest Hack Day events should show project time, submissions, and judging and state the project-work rule being used for the event. Hacktoberfest Meetup events should show talks, demonstrations, discussions, social activities, noncompetitive workshops, or other sessions.
+Hacktoberfest Hack Day events should show project time, submissions, winner selection, and when project work may begin. Hacktoberfest Meetup events should show talks, demonstrations, discussions, social activities, workshops, or other sessions.
 {% endstep %}
 
 {% step %}
@@ -44,22 +44,18 @@ Update any QR codes and links so they point to your event-specific pages:
 {% step %}
 ## Add the Prize Information
 
-For a Hacktoberfest Hack Day event, include only the open-source prize challenges your event has chosen to run and identify their DEV Badge prizes. If the MLH Hacktoberfest team has also assigned a Hack Days partner prize category, include it exactly as provided. Do not add categories your event is not running.
+For a Hacktoberfest Hack Day event, include the [Best Open-Source AI Project challenge](open-source-prize-categories.md) and its DEV Badge prize. Mention MLH+DEV branded swag bags only if your event's onboarding materials confirm them. If the MLH Hacktoberfest team has also assigned a Hack Days partner prize category, include it exactly as provided.
 
-Hacktoberfest Meetups do not use project submissions, judging, or prize challenges, so omit prize language.
+Hacktoberfest Meetups do not use project submissions or prize challenges, so omit prize language.
 {% endstep %}
 {% endstepper %}
-
-## What Not to Edit
-
-Do not edit MLH-provided framing, Code of Conduct material, or embedded video sections unless the MLH Hacktoberfest team explicitly asks you to. Keep event-specific edits limited to your name, organization, schedule, links, format, chosen open-source challenges, and any assigned Hack Days partner prize category.
 
 ## Quick Checklist
 
 * [ ] Updated the title with the approved event name, location, and date
-* [ ] Added organizer and organization information
+* [ ] Added host and organization information
 * [ ] Filled in the schedule with actual times
 * [ ] Updated community, registration, check-in, and submission links
-* [ ] Added the chosen open-source challenges and their DEV Badge prizes
+* [ ] Added the Best Open-Source AI Project challenge and its DEV Badge prize
 * [ ] Added only the Hack Days partner prize category assigned by the MLH Hacktoberfest team
 * [ ] Tested embedded videos and links

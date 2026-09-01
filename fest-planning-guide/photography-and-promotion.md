@@ -6,9 +6,9 @@ Event photos are required for both Fest formats. They help document the communit
 
 Aim for a varied set of photos that includes:
 
-* Organizers, speakers, mentors, judges, and participants collaborating
+* Hosts and participants collaborating, plus any speakers or facilitators involved in the program
 * Participants working together on projects or activities
-* Project demonstrations, judging, talks, workshops, discussions, and show-and-tell moments
+* Project demonstrations, winner announcements, talks, workshops, discussions, and show-and-tell moments
 * Opening and closing moments, including winning teams at Hacktoberfest Hack Day events
 * The venue, signage, and local character of the organization hosting the Fest
 * Hacktoberfest, MLH, and assigned partner branding in the context of the event

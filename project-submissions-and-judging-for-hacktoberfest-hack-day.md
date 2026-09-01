@@ -1,34 +1,33 @@
-# Project Submissions and Judging for Hacktoberfest Hack Day
+# Project Submissions and Winner Selection
 
 This page applies to approved `Hacktoberfest Hack Day` events. OrganizerHQ Challenges is mandatory for every Hacktoberfest Hack Day event and cannot be replaced by another submission platform.
 
-Use the [MLH Standard Hackathon Rules](https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md) as the default: project-specific work happens during the Hack Day. Organizers may use a different approach when it suits their event, but must communicate it clearly before project work begins.
+Use the [MLH Standard Hackathon Rules](https://github.com/MLH/mlh-policies/blob/main/standard-hackathon-rules.md) as the default: project-specific work happens during the Hack Day. If a different approach better suits your event, explain it clearly before project work begins.
 
-## Set Up the Challenges
+## Confirm the Challenges
 
-Hacktoberfest Hack Day organizers may run one, several, or all of the [open-source prize challenges](fest-planning-guide/open-source-prize-categories.md). Create each challenge you have chosen in OrganizerHQ:
+Every Hacktoberfest Hack Day runs the [Best Open-Source AI Project challenge](fest-planning-guide/open-source-prize-categories.md). MLH adds it to your event automatically:
 
-1. Open the public event page while signed in as an organizer.
-2. Select **Edit Event**.
-3. In **Challenges**, select **+ Add Challenge**.
-4. Use the exact challenge name and requirements from this handbook, then select **Publish**.
-5. Return to the public **Challenges** page and confirm that every challenge your Fest is running appears.
+1. Open the public event page while signed in.
+2. Select **Challenges** in the “View and submit challenges for this event” banner.
+3. Confirm that the Best Open-Source AI Project challenge appears.
+4. If the MLH Hacktoberfest team assigned your event a Hack Days partner prize category, confirm that it appears too.
 
-<figure><img src=".gitbook/assets/organizerhq/add-local-challenge.png" alt="Event editing page showing an assigned MLH challenge and the Add Challenge control"><figcaption><p>Add each open-source prize challenge your Fest has chosen to run.</p></figcaption></figure>
+If an expected challenge is missing, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io). Do not create a duplicate or add a partner category that MLH did not assign.
 
-If the MLH Hacktoberfest team assigns your event a Hack Days partner prize category, it appears automatically. Do not create a duplicate or add a partner category that MLH did not assign.
+You may add an optional local challenge through **Edit Event → + Add Challenge**. Keep it separate from the MLH challenges, which appear automatically. Any local prize is provided by the host unless your event onboarding says otherwise.
 
 ## Set the Submission Window
 
-An organizer controls when teams can submit:
+You control when teams can submit:
 
-1. Open the public event page while signed in as an organizer.
+1. Open the public event page while signed in.
 2. Select **Manage Submissions**.
 3. Under **Submission Deadline**, set the **Submissions open** and **Submissions close** date and time.
 4. Select **Save deadline**.
 5. Check the status at the right of the section. It shows **OPEN** while submissions are available.
 
-Open submissions during project time and close them at the project deadline, before judging begins. If the deadline changes, update it here and tell every team.
+Open submissions during project time and close them at the project deadline, before demos begin. If the deadline changes, update it here and tell every team.
 
 <figure><img src=".gitbook/assets/organizerhq/manage-submissions-empty.png" alt="Manage Submissions page with controls for submission open and close times"><figcaption><p>Set and save the submission window from Manage Submissions.</p></figcaption></figure>
 
@@ -37,12 +36,12 @@ Open submissions during project time and close them at the project deadline, bef
 Tell participants:
 
 * The exact submission deadline
-* Which open-source challenges and assigned partner category are available
-* The project-work rule for this event
+* The Best Open-Source AI Project challenge, any assigned partner category, and any optional local challenge
+* When project work may begin
 * The required project information
 * The demo format and time limit
-* The judging criteria
-* That every project being judged must be submitted and select every challenge it is entering
+* How the winning projects will be selected
+* That every project being considered for a prize must be submitted and select every challenge it is entering
 
 Open the **Challenges** page yourself and confirm that every category your event is running appears correctly. The **Add Submission** button becomes available only during the saved submission window.
 
@@ -55,48 +54,44 @@ Participants must register through OrganizerHQ and check in at the venue. One te
 3. Select **Add Submission**.
 4. Enter the project link, project name, description, and technologies used.
 5. Add a demo URL if the team has one.
-6. Under **Which challenge(s) are you submitting to?**, select every open-source challenge and assigned partner category the project is eligible to enter.
+6. Under **Which challenge(s) are you submitting to?**, select every Hacktoberfest, partner, and local challenge the project is eligible to enter.
 7. Select **Submit Project** before the deadline.
 
-<figure><img src=".gitbook/assets/organizerhq/challenges-submissions-open.png" alt="Hack Day Challenges page with assigned and organizer-created challenges and an active Add Submission button"><figcaption><p>Teams start from the event's Challenges page while submissions are open.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/organizerhq/challenges-submissions-open.png" alt="Example Hack Day Challenges page with an active Add Submission button"><figcaption><p>Teams start from the event's Challenges page while submissions are open. This example event uses different challenge names from Hacktoberfest.</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/organizerhq/project-submission-form.png" alt="Project submission form with project link, name, demo URL, description, technologies, and challenge selections"><figcaption><p>Complete the required project fields and select every eligible challenge before submitting.</p></figcaption></figure>
 
-For open-source challenges, the project link must be a public GitHub repository and the repository must make its open-source license clear. The submission form does not include a separate license-attestation field.
+For the open-source challenge, the project link must be a public GitHub repository and the repository must make its open-source license clear. The submission form does not include a separate license-attestation field.
 
 {% hint style="info" %}
 The same project can appear once for every challenge it selected, and the total shown in Manage Submissions may count those challenge entries. This is expected; do not treat them as duplicate project forms.
 {% endhint %}
 
-## Verify Every Project Before Judging
+## Verify Every Project Before Demos
 
-Return to **Manage Submissions** before judging begins:
+Return to **Manage Submissions** before demos begin:
 
 1. Identify each unique project in the **All** view and compare it with the teams scheduled to present. Do not rely on the headline total when projects entered more than one challenge.
-2. Use the challenge tabs to confirm that each open-source challenge and assigned partner category has the expected entries.
+2. Use the challenge tabs to confirm that the open-source challenge and each assigned partner category have the expected entries.
 3. Search by project, hacker, or technology when you need to find a specific submission.
 4. Ask a missing team to submit while the window remains open. Apply the same deadline policy to every team.
-5. Confirm that the submission window is closed when judging begins, then refresh the list.
+5. Confirm that the submission window is closed when demos begin, then refresh the list.
 
-<figure><img src=".gitbook/assets/organizerhq/manage-submissions-projects.png" alt="Manage Submissions page with project cards, challenge filters, search, and Mark Winner buttons"><figcaption><p>Review unique projects and use each challenge filter to confirm coverage before judging.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/organizerhq/manage-submissions-projects.png" alt="Manage Submissions page with project cards, challenge filters, search, and Mark Winner buttons"><figcaption><p>Review unique projects and use each challenge filter to confirm coverage before demos.</p></figcaption></figure>
 
-## Judge Each Challenge
+## Choose the Winners
 
-Give every eligible submission the same opportunity to be reviewed. Judge each project against the relevant challenge definition and confirm its repository, license, model, harness, or partner-technology requirements before selecting a winner.
+Give every eligible submission the same opportunity to present its work. Use the guidance on the relevant challenge page and confirm any repository, license, model, harness, or partner-technology requirements before selecting a winner.
 
-A simple rubric should consider:
+Look for projects that:
 
-| Criterion | What judges should consider |
-| --- | --- |
-| Technical implementation | Does the project work, and how effectively does it use the chosen technology? |
-| Creativity | Is the idea or implementation distinctive? |
-| Learning and ambition | What did the team learn or attempt during the Hack Day? |
-| Demo and clarity | Can the team clearly explain the problem, solution, and implementation? |
-| Challenge eligibility | Does the project satisfy the chosen open-source or assigned partner category requirements? |
+* Meet the challenge requirements
+* Work well enough to demonstrate
+* Use the relevant technology as an important part of the project
+* Show originality, learning, or thoughtful technical work
+* Explain clearly what the team built and how it works
 
-Tell judges how to handle ties before judging starts. A judge should disclose a close relationship with a team and recuse themselves when that relationship could affect the result.
-
-Each chosen open-source challenge has one winning team. Every member of that team receives a DEV Badge on their DEV account. Any assigned Hack Days partner prize category uses the prize and eligibility instructions supplied for that category. Hacktoberfest does not use pull-request counts as the basis for these prizes.
+The Best Open-Source AI Project challenge has one winning team, and every member receives a DEV Badge on their DEV account. Depending on availability and your event's onboarding instructions, MLH may also provide MLH+DEV branded swag bags for the winning team. Any assigned Hack Days partner prize category uses the prize and eligibility instructions supplied for that category. Hacktoberfest does not use pull-request counts as the basis for these prizes.
 
 ## Mark Every Winner
 
@@ -107,13 +102,13 @@ Complete this process before announcing results in the room:
 3. Select **Mark Winner** on the project card.
 4. Select **Winner** from the menu.
 5. Confirm that the card has a gold **WINNER** badge and that the page reports **Winner saved**.
-6. Repeat for every open-source challenge your Fest ran and every partner category MLH assigned.
+6. Repeat for the Best Open-Source AI Project challenge, every partner category MLH assigned, and any local challenge you added.
 
 <figure><img src=".gitbook/assets/organizerhq/mark-winner-menu.png" alt="Mark Winner menu with Winner, ranked places, and custom tag options"><figcaption><p>Select Winner for the winning project in each challenge.</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/organizerhq/winner-saved.png" alt="Manage Submissions page showing saved winner tags and a Winner saved confirmation"><figcaption><p>Verify the gold Winner badge and saved confirmation before moving on.</p></figcaption></figure>
 
-Keep **Announce Winners** set to **PRIVATE** while judging and checking results.
+Keep **Announce Winners** set to **PRIVATE** while selecting winners and checking results.
 
 ## Announce Winners and Publish the Gallery
 
