@@ -10,29 +10,39 @@ A Fest is an in-person Hacktoberfest event. For more details, [please click here
 
 <details>
 
-<summary>What is the difference between Hacktoberfest Hack Day and Hacktoberfest Meet Up?</summary>
+<summary>What is the difference between Hacktoberfest Hack Day and Hacktoberfest Meetup?</summary>
 
-Hacktoberfest Hack Day events are hands-on events modeled on the [MLH Hack Days program](https://mlh.gitbook.io/hack-days). If participants will build and submit projects for judged challenges, choose Hacktoberfest Hack Day. Approved Hacktoberfest Hack Day events receive swag and reimbursement under the current policy and can run any or all of the open-source prize challenges in this guide.
+Hacktoberfest Hack Day events are hands-on events modeled on the [MLH Hack Days program](https://mlh.gitbook.io/hack-days). If participants will build and submit projects for a prize challenge, choose Hacktoberfest Hack Day. Approved Hacktoberfest Hack Day events are eligible to receive swag, subject to availability, receive reimbursement under the current policy, and run the Best Open-Source AI Project challenge.
 
-Hacktoberfest Meet Up events are more flexible in format. If your program will consist of talks, demonstrations, discussions, social activities, or noncompetitive workshops, choose Hacktoberfest Meet Up. Hacktoberfest Meet Up events receive swag, but do not receive prizes or reimbursement.
-
-</details>
-
-<details>
-
-<summary>Can organizers choose their open-source prize challenges?</summary>
-
-Yes. Hacktoberfest Hack Day organizers may choose to run one, several, or all of the open-source prize challenges in this guide. Each chosen challenge has one winning team, and every member of that team receives a DEV Badge on their DEV account. Hack Days partner prize categories form one separate, MLH-assigned class and cannot be chosen by organizers.
+Hacktoberfest Meetup events are more flexible in format. If your program will consist of talks, demonstrations, discussions, social activities, or workshops, choose Hacktoberfest Meetup. Meetups do not use project submissions or prize challenges. They are eligible to receive swag, subject to availability, but do not receive prizes or reimbursement.
 
 </details>
 
 <details>
 
-<summary>Does MLH provide judges or mentors for my Fest?</summary>
+<summary>What open-source AI prize challenge does a Hack Day run?</summary>
 
-No. Organizers arrange their own judges and mentors, and organizers are responsible for judging the projects and selecting the winning teams for any open-source challenge or partner prize category their Fest runs.
+Every Hacktoberfest Hack Day runs the [Best Open-Source AI Project challenge](fest-planning-guide/open-source-prize-categories.md). It has one winning team, and every member receives a DEV Badge on their DEV account. Depending on availability and your onboarding instructions, MLH may also provide MLH+DEV branded swag bags for the winning team. Hack Days partner prize categories are separate and appear only when MLH assigns one to your event.
 
-The Project Submissions and Judging guide covers what a strong judging process looks like and how to score projects against each challenge definition.
+</details>
+
+<details>
+
+<summary>Can I add a challenge for my own community?</summary>
+
+Yes. MLH adds the Best Open-Source AI Project challenge and any assigned partner category automatically. You may add a separate local challenge through **Edit Event → + Add Challenge**. Keep it clearly separate from the MLH challenges, and provide any local prize yourself unless your onboarding instructions say otherwise.
+
+See [Add an Optional Local Challenge](organizerhq-tutorial.md#add-an-optional-local-challenge) for the steps.
+
+</details>
+
+<details>
+
+<summary>Do I need judges or mentors for my Fest?</summary>
+
+No. Mentors are optional, and a Hack Day does not require a judging panel. The host can select the winners during project demos using the guidance for each challenge.
+
+See [Project Submissions and Winner Selection](project-submissions-and-judging-for-hacktoberfest-hack-day.md) for the submission, winner, and public-gallery workflow.
 
 </details>
 
@@ -48,7 +58,7 @@ No. These Fest formats are in-person events only. Please see [Hacktoberfest.com]
 
 <summary>How long is a Fest?</summary>
 
-Every Fest is a one-day event lasting 3 to 12 hours.
+Every Fest takes place in person on a single day. Hacktoberfest Hack Days must run for at least 3 hours and may not exceed 12 hours; four to six hours is ideal. Meetups may be shorter.
 
 </details>
 
@@ -56,7 +66,7 @@ Every Fest is a one-day event lasting 3 to 12 hours.
 
 <summary>Where can I host a Fest?</summary>
 
-Fests are available in all countries except those subject to [U.S. embargo restrictions](https://ofac.treasury.gov/sanctions-programs-and-country-information).
+You can apply to host a Fest in your local community. Your event must use an approved, in-person venue and meet the requirements in this handbook.
 
 </details>
 
@@ -64,7 +74,7 @@ Fests are available in all countries except those subject to [U.S. embargo restr
 
 <summary>Can one organization host more than one Fest?</summary>
 
-Yes, in different cities. What we can't support is several Fests from the same team in the same city or metro area, since we want to reach as many communities as possible rather than concentrating support in one place.
+Yes, in different cities. We cannot support several Fests from the same team in the same city or metro area because we want to reach communities in more locations.
 
 If your organization wants to host in more than one city, have a different member of your organization apply for each individual event, and include your organization's name in the event name field on every application so we can see that they belong together.
 
@@ -92,7 +102,7 @@ Apply as soon as you have a workable event idea and enough information for the M
 
 <summary>Can I apply with a tentative date?</summary>
 
-We ask that you have a confirmed date in mind before submitting your application, since it helps us with planning. If your plans change later and you need to postpone, that's okay — just make sure the new date is still within the October window and notify us at hacktoberfest@mlh.io as soon as you make the change.
+We ask that you have a confirmed date in mind before submitting your application because it helps us with planning. If your plans change and you need to postpone, make sure the new date is still within the October window and notify us at hacktoberfest@mlh.io as soon as you make the change.
 
 </details>
 
@@ -110,9 +120,9 @@ If an application reaches us too late to be included in Hacktoberfest, we may co
 
 <summary>How are applications reviewed, and what do you look for?</summary>
 
-Your event needs to meet the eligibility criteria set out in this handbook — among them, a one-day in-person event lasting 3 to 12 hours, held in a country not subject to U.S. embargo restrictions, with a suitable venue. The Fest Formats and Host and Venue Guide pages cover these in full.
+Your event needs to meet the eligibility criteria set out in this handbook, including an in-person event held on a single day with a suitable venue. Hacktoberfest Hack Days must also be free to attend and run for 3 to 12 hours; four to six hours is ideal. The [Fest Formats](fest-formats.md) and [Securing and Preparing Your Venue](fest-planning-guide/host-and-venue-guide.md) pages cover these in full.
 
-For now we review all applications on a first-come, first-served basis. If applications begin to outpace our capacity to support them, we may introduce some basic selection criteria — for example, prioritizing regions with relatively few existing Hacktoberfest events.
+For now we review all applications on a first-come, first-served basis. If applications begin to outpace our capacity, we may prioritize regions with relatively few existing Hacktoberfest events.
 
 </details>
 
@@ -120,7 +130,7 @@ For now we review all applications on a first-come, first-served basis. If appli
 
 <summary>How do registration and check-in work?</summary>
 
-Every Fest must use OrganizerHQ for attendee registration and check-in. Hacktoberfest Hack Day events must also use OrganizerHQ Challenges for all project submissions; another submission page cannot replace it. Follow the OrganizerHQ instructions supplied with your approval and see the [OrganizerHQ Tutorial](/broken/pages/e1ef8f7f30a94873d42fbd51745bfde456d2186f) for more details.
+Every Fest must use OrganizerHQ for attendee registration and check-in. Hacktoberfest Hack Day events must also use OrganizerHQ Challenges for all project submissions; another submission page cannot replace it. Follow the OrganizerHQ instructions supplied with your approval and see the [OrganizerHQ Tutorial](organizerhq-tutorial.md) for more details.
 
 </details>
 
@@ -128,9 +138,7 @@ Every Fest must use OrganizerHQ for attendee registration and check-in. Hacktobe
 
 <summary>Who counts toward my check-in total?</summary>
 
-Everyone physically at your event should register and check in through OrganizerHQ — organizers, volunteers, speakers, mentors, judges and attendees alike. They all count toward your verified check-in total, which is what your reimbursement is calculated from.
-
-Only attendees are eligible to submit projects and win prizes. If you are organizing, volunteering, speaking, mentoring or judging at the event, you can be checked in but you cannot enter or win.
+Reimbursement is calculated from verified in-person attendee check-ins in OrganizerHQ. Check attendees in only while they are physically present; registrations, remote participation, and advance check-ins do not count.
 
 </details>
 
@@ -154,7 +162,7 @@ Unfortunately no, we can only reimburse actual expenses after the event has take
 
 <summary>Do I need a specific theme?</summary>
 
-The theme of your event should broadly match Hacktoberfest's open-source and open-weight AI theme. Organizers should feel free to customize the event and give it their own style to match the needs of their community.
+Your event should broadly match Hacktoberfest's open-source and open-weight AI theme, but you can customize it to suit your community.
 
 </details>
 
@@ -170,7 +178,7 @@ Yes. Your organization's or community's branding is welcome alongside the approv
 
 <summary>What support does each format receive?</summary>
 
-Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursement under our current policy limits and may run any or all of the open-source prize challenges. Selected Hacktoberfest Hack Day events may receive an assigned Hack Days partner prize category. Hacktoberfest Meet Up events receive swag, but do not receive reimbursement or prize categories.
+Both formats are eligible to receive Hacktoberfest swag, subject to availability. Hacktoberfest Hack Day events also receive reimbursement under our current policy limits and run the Best Open-Source AI Project challenge. Selected Hacktoberfest Hack Day events may receive an assigned Hack Days partner prize category. Hacktoberfest Meetup events do not receive reimbursement or prize categories.
 
 </details>
 
@@ -178,15 +186,14 @@ Both formats receive swag. Hacktoberfest Hack Day events also receive reimbursem
 
 <summary>What is in the swag pack and when does it arrive?</summary>
 
-Every approved Fest, in both formats, receives a Hacktoberfest event pack. Every pack includes T-shirts, stickers, and postcards, and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
+Every approved Fest, in both formats, is eligible to receive a Hacktoberfest event pack. Availability, shipping eligibility, partner assignment, and event timing may affect whether your event receives physical materials. Event packs normally include T-shirts, stickers, and postcards and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
 
-We aim to send swag packs before the event start date, but in some rare cases you may  receive the pack after the event due to shipping delays.
+When T-shirts are included, quantities are limited. We send a set number for the Fest, so decide in advance how you want to hand them out. Please don't tell attendees that everyone will get one.
+We aim to send swag packs before the event start date, but in rare cases the pack may arrive after the event because of shipping delays.
 
-T-shirts are limited — we send a set number to every Fest rather than one per participant, so decide in advance how you want to hand them out. Please don't tell attendees that everyone will get one.
+Sticker and postcard quantities are based on your expected attendance. We confirm the exact contents and shipping timing once your event is approved. Surprise drops and partner items are not guaranteed, so wait for confirmation before promising them to attendees.
 
-Sticker and postcard quantities are based on your expected number of attendees rather than on registrations, and we confirm the exact contents and shipping timing for your event once it is approved. Surprise drops and partner items are not guaranteed, so hold off on promising those to your attendees until we have confirmed them for your event.
-
-Hacktoberfest Hack Day events also receive DEV Badges for every member of each winning open-source challenge team, and any Hack Days partner prize category assigned to the event. Those are fulfilled separately after the Fest and are not part of the general swag distribution.
+Every member of the winning Best Open-Source AI Project team receives a DEV Badge. Depending on availability and your event's onboarding instructions, MLH may also provide MLH+DEV branded swag bags for the winning team. Any assigned Hack Days partner prize category is handled separately after the Fest and is not part of the general swag distribution.
 
 </details>
 
@@ -202,9 +209,7 @@ No. MLH handles or reimburses customs duties on event packs, so you shouldn't be
 
 <summary>What expenses can be reimbursed?</summary>
 
-Food, snacks and non-alcoholic drinks for your attendees. Costs like venue hire, internet, A/V equipment, printing, accessibility support, local transport and volunteer expenses are not covered — we'd encourage you to approach your school, company or local government about providing those for free, and we're happy to help you problem-solve on a case-by-case basis if you get stuck.
-
-Payment processing fees, currency conversion charges and bank fees are not reimbursable.
+Food, snacks, and non-alcoholic beverages are always eligible. Other event expenses may be eligible with advance approval. Review [Reimbursements](reimbursements.md) and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) before making an uncertain purchase.
 
 </details>
 
@@ -212,9 +217,7 @@ Payment processing fees, currency conversion charges and bank fees are not reimb
 
 <summary>What does a receipt or invoice need to show?</summary>
 
-As much detail as the vendor can give you. From the vendor: their name, their tax or VAT/GST number, and their address. From your side: the payment method used, such as the last four digits of the card, and the total amount, inclusive of every charge incurred.
-
-Incomplete or non-itemized receipts are the most common reason a reimbursement gets held up, so it's worth checking before you leave the vendor.
+Keep a complete, itemized receipt for every purchase you intend to claim. Follow the receipt requirements in your Ramp invitation and event onboarding materials, and review [Reimbursements](reimbursements.md) before spending.
 
 </details>
 
@@ -222,9 +225,7 @@ Incomplete or non-itemized receipts are the most common reason a reimbursement g
 
 <summary>When do I submit receipts, and when will I be paid?</summary>
 
-All receipts must be submitted within 30 days of your event finishing.
-
-Payment typically takes 30 days, and that clock starts when we receive your receipts — which can be as soon as the day after your event if you submit them promptly. Submitting early is the single biggest thing within your control.
+Submit receipts by the deadline in your event approval or onboarding materials. Payment typically takes 30 days from submission, although it can take a few weeks more or less depending on individual circumstances. If a Ramp invitation or deadline is missing, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
 
 </details>
 
@@ -232,9 +233,7 @@ Payment typically takes 30 days, and that clock starts when we receive your rece
 
 <summary>Can the reimbursement limit be increased for my event?</summary>
 
-No. The reimbursement rates and the 50-hacker maximum apply to every Fest, and we aren't able to raise them for individual events. Every organizer works to the same policy, and that consistency is what keeps the programme fair to everyone hosting with us.
-
-You are welcome to run a larger event, and many organizers do — the reimbursement simply stays capped at the published amount for your country, and any costs beyond it would need to be covered by your own budget or local sponsors.
+The published country rate and 50-hacker cap apply unless your event approval lists a different rate. If your approval differs from the handbook, follow the approval and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) so the guide can be corrected. You may run a larger event, but reimbursement remains capped at the applicable maximum and cannot exceed approved, itemized spending.
 
 </details>
 
@@ -244,7 +243,7 @@ You are welcome to run a larger event, and many organizers do — the reimbursem
 
 We love that you want to get involved, and the most direct way to do it is to host a Fest yourself. We don't run a central volunteer list, so we aren't able to place people with events in their area.
 
-If hosting alone feels like more than you have capacity for right now, consider getting a few friends or people from your community together and hosting as a team. Sharing the organizing work is a common and very effective way to run a Fest, and a Hacktoberfest Meet Up can be as simple as a talk, a workshop, or a social gathering around open source.
+If hosting alone feels like more than you have capacity for right now, consider getting a few friends or people from your community together and hosting as a team. Sharing the organizing work is a common and very effective way to run a Fest, and a Hacktoberfest Meetup can be as simple as a talk, a workshop, or a social gathering around open source.
 
 </details>
 
@@ -252,9 +251,7 @@ If hosting alone feels like more than you have capacity for right now, consider 
 
 <summary>Can someone from the MLH team attend my event?</summary>
 
-Unfortunately not. With Fests running all over the world throughout October, we aren't able to send team members to events in person.
-
-We're still with you in the ways that matter for running the day: the Host Handbook (this guide) covers the whole process end to end, and you can reach us at [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) at any point before, during, or after your event.
+No. With Fests running around the world throughout October, MLH team members cannot attend each event in person. Use this guide to plan and run your Fest, and contact [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) with questions before, during, or after the event.
 
 </details>
 
