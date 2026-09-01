@@ -15,7 +15,7 @@ Hacktoberfest Hack Days run for 3 to 12 hours, although four to six hours is ide
 
 The challenge has one winning team, and every member receives a DEV Badge on their DEV account. Depending on availability and your event's onboarding instructions, MLH may also provide MLH+DEV branded swag bags for the winning team. The host selects the winner using the challenge guidance.
 
-Some Hacktoberfest Hack Day events will also receive a Hack Days partner prize category. These categories are assigned by the MLH Hacktoberfest team. [Partner challenge details will be published after approval](hack-days-partner-modules.md).
+Some Hacktoberfest Hack Day events will also receive a Hack Days partner prize category. These categories are assigned by the MLH Hacktoberfest team. See the [partner challenge details](hack-days-partner-modules.md).
 
 ### Prize Tracks
 

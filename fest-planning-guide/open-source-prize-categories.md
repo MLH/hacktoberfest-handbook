@@ -39,4 +39,4 @@ The challenge has one winning team. Every member receives a DEV Badge on their D
 
 ## Hack Days Partner Prize Categories
 
-Hack Days partner prize categories are separate from the Best Open-Source AI Project challenge. They may be assigned to selected Hacktoberfest Hack Day events by the MLH Hacktoberfest team. You may indicate a preference when applying, but an assigned category appears automatically in OrganizerHQ. [Partner challenge details are coming soon](../hack-days-partner-modules.md).
+Hack Days partner prize categories are separate from the Best Open-Source AI Project challenge. They may be assigned to selected Hacktoberfest Hack Day events by the MLH Hacktoberfest team. You may indicate a preference when applying, but an assigned category appears automatically in OrganizerHQ. See the [partner challenge details](../hack-days-partner-modules.md).

@@ -189,7 +189,7 @@ Both formats are eligible to receive Hacktoberfest swag, subject to availability
 Every approved Fest, in both formats, is eligible to receive a Hacktoberfest event pack. Availability, shipping eligibility, partner assignment, and event timing may affect whether your event receives physical materials. Event packs normally include T-shirts, stickers, and postcards and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
 
 When T-shirts are included, quantities are limited. We send a set number for the Fest, so decide in advance how you want to hand them out. Please don't tell attendees that everyone will get one.
-We aim to send swag packs before the event start date, but in some rare cases you may  receive the pack after the event due to shipping delays.
+We aim to send swag packs before the event start date, but in rare cases the pack may arrive after the event because of shipping delays.
 
 Sticker and postcard quantities are based on your expected attendance. We confirm the exact contents and shipping timing once your event is approved. Surprise drops and partner items are not guaranteed, so wait for confirmation before promising them to attendees.
 
