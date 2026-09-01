@@ -108,6 +108,14 @@ We ask that you have a confirmed date in mind before submitting your application
 
 <details>
 
+<summary>What are the maximum and minimum numbers of participants for a Fest?</summary>
+
+There are no strictly enforced maximum or minimum numbers of participants for a Fest. That being said, we typically find that the ideal size for these events is between 25 and 50 participants. This allows the event to be large enough to facilitate new connections across your community but small enough to stay within our reimbursement limits, which cap at 50 participants (see Reimbursements for more).
+
+</details>
+
+<details>
+
 <summary>Is there a deadline to apply?</summary>
 
 There is no fixed deadline, but the sooner you apply the more likely we are to be able to support your event during October. Applying early gives us time to review, confirm, and get swag to you before your date.
@@ -188,8 +196,7 @@ Both formats are eligible to receive Hacktoberfest swag, subject to availability
 
 Every approved Fest, in both formats, is eligible to receive a Hacktoberfest event pack. Availability, shipping eligibility, partner assignment, and event timing may affect whether your event receives physical materials. Event packs normally include T-shirts, stickers, and postcards and may include other promotional materials. Some events also receive surprise swag drops while supplies last.
 
-When T-shirts are included, quantities are limited. We send a set number for the Fest, so decide in advance how you want to hand them out. Please don't tell attendees that everyone will get one.
-We aim to send swag packs before the event start date, but in rare cases the pack may arrive after the event because of shipping delays.
+When T-shirts are included, quantities are limited. We send a set number for the Fest, so decide in advance how you want to hand them out. Please don't tell attendees that everyone will get one. We aim to send swag packs before the event start date, but in rare cases the pack may arrive after the event because of shipping delays.
 
 Sticker and postcard quantities are based on your expected attendance. We confirm the exact contents and shipping timing once your event is approved. Surprise drops and partner items are not guaranteed, so wait for confirmation before promising them to attendees.
 
