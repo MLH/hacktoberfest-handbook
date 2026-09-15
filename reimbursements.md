@@ -1,6 +1,6 @@
 # Reimbursements
 
-*Last reviewed: August 2026.*
+*Last reviewed: 15 September 2026.*
 
 Reimbursement is available only for approved `Hacktoberfest Hack Day` events hosted by individuals, school clubs, or community organizations. Corporate hosts and `Hacktoberfest Meetup` events are not eligible.
 
@@ -45,7 +45,9 @@ Search by country and enter the expected number of verified OrganizerHQ check-in
 ```hacktoberfest-reimbursement-rate
 ```
 
-Rates were last updated in August 2026. If your event approval lists a different rate, follow your approval and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
+Rates were last updated on 15 September 2026. If your event approval lists a different rate, follow your approval and email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io).
+
+Monaco and Vatican City use provisional rates based on the existing allowances for France and Italy, respectively.
 
 {% hint style="info" %}
 If your country is not listed, email [hacktoberfest@mlh.io](mailto:hacktoberfest@mlh.io) before your event.
