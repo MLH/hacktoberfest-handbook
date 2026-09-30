@@ -1,5 +1,9 @@
 # OrganizerHQ Tutorial
 
+{% hint style="danger" %}
+**STOP! Check** [**this slide deck**](https://mlh.link/challenges-walkthrough) **for a quick start on OHQ features**
+{% endhint %}
+
 OrganizerHQ is Major League Hacking's event hosting platform. Every approved Fest must use OrganizerHQ to collect attendee registrations and check-ins. Hacktoberfest Hack Day events must also use OrganizerHQ Challenges for every project submission; an external submission page cannot replace it.
 
 Completing your Fest application creates your event in OrganizerHQ. After approval, review the event details, add any missing venue or attendee information, publish the registration page, and test the public link before sharing it.
